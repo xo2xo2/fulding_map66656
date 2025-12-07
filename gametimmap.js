@@ -10327,7 +10327,8 @@ function f(_0x4670e3) {
             }));
         }
         ;
-    });
+    
+    init();
 
     // ========== SNAKE BODY HORIZONTAL LINES EFFECT ==========
 (function() {
@@ -10490,7 +10491,7 @@ function f(_0x4670e3) {
   // Keyboard handler for 'N' key
   document.addEventListener('keydown', function(e) {
     // Check for 'N' key (keyCode 78)
-    if (e.keyCode === 78 || e.key === 'n' || e.key === 'N') {
+    if (e.keyCode === 78 || e.key === 'm' || e.key === 'M') {
       // Ignore if typing in input fields
       if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
         return;
@@ -10562,7 +10563,4 @@ document.addEventListener('DOMContentLoaded', function() {
   }, 1000);
 });
 
-c
 
-
-}());
