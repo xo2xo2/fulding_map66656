@@ -15,6 +15,2712 @@
 }(_0x5bde, 0x39193));
 function _0x5bde() {
     var _0x2c4b2f = ['index', 'value1_kill', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x223\x22>3</option>', 'checked', 'reconnectAttempts', '706ec2b616eac132112d95', 'https://i.imgur.com/LvJ1RxC.png', '6050c0da08dcd24e2c50c9cf', 'test', 'fadeIn', 'dd-container', '3b845847d898b5', '\x20\x20\x20\x20\x20\x20\x20<h2\x20class=\x22modal-title\x22>', 'VkdsdGJXRndWMjl5YldGMFpRPT0=', '28981902421e', '64d6ce520b52cfdf', '74f999340828d4f540bece2eee6f', 'b8b598799333', 'ctrl', 'inline-block', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22saveGame\x22\x20value=\x22true\x22>', 'href', '2a0b940c', '#fdbf5f', 'angle', '2f4341cdc311c58b5b075ec5ce18', '5e8e4e850b12481c0784', '31fdd70dc6d65b0940', '#tmwiq', 'div_zigzag', '124ca44078', '28d94a5b0c5d4edf103d13a357e917744b3458ff53ec0d7b2563aff02bfbf572266da7fa2ffeeb6f2444f68e38ccf84c7a09f2d939cba30d4f41d0da12d4c54e4549c5d705ded71d4e', '319ed70dc386441c40c6de519fcc500225d7b159a6d92b173b80', 'result', 'resendLastByte', '72e05be113', 'insertAfter', 'img_i_3', '3f1820c6871da6c2', 'v_z', '69f99bf39dab1f8d1c879dd1d88416cb12', '7507934cba02124019', '8c8a9c1ec03e9facd0a085', '13f525', '3222902175af91a55e', 'keepJSONItemsOnTop', 'ee0cd5f5bb6dc034c0', 'c46068f3adff6375a979', '2c1a1b9a4375', '00f3623268217bf55fb638366d292bf1798e720f7b0239c537d7', 'keyCode', '1c093b897f9c0d06501d', '6a0165130a9a48', '439d2b52a280e75d2a912810bc6fb22b32687b35bf69ab2f09692e3bb364cf310264113f8876', '8e783c40e1d031d6c0462a40fbc528ecec5d0148', 'documentElement', '9b03cdcb51', 'nodeName', 'f6e6c9e78c6cdf7d84bff5fe7078ab776e', '625b', 'a803a395c89896', '\x20\x20\x20</div>', 'tmwi', '\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_background\x22\x20style=\x22display:\x20none;\x22>', 'Pham\x20\x20Phu\x20\x20Bach', '0277ad6676fba9e0', 'getTime', 'c7dba457668c215fb665a36f3a6a3329', '2d3081c084021dca', '39ebff33f5eb763709e6', '3eb869b5363b', 'loaded', 'drawCircle', '173c60fafe', 'hasOwnProperty', 'data', 'f8ad5f389f3f57bf74b82d3d', 'b79bdc445f', '0263b1666e', '46b47ab63928632f27b8798f', '6521', 'f58713cc3a8292c099', 'c1472d902050ae96ac5e', 'pDc', 'values', 'img_3', '28a93e284d131d', 'https://lh3.googleusercontent.com', 'relativePath', 'aacf09c5da7b1922c6', 'f59505cb', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x220\x22>No\x20Zigzag</option>', '4cbee3727d52f9ca3a88f546365f', '3b885240da', '7062c2ac04b0c66a152cd4be51a1df2de53d', '64d2d3521b4d', '64c5de', '7caed126ee229de6b4e5f667', 'anchor', 'feacb0e36d75ad7963babbed6b6fe17667f3bcd2', 'e7478a35066c013b9b45', 'ebe6a4b00bc509', 'TextStyle', '77d80b8396c9', '2a589f4e', 'skinGroupArrayDict', 'ended', '71959ac0818e', 'edad04c91f', '6cdcca4f1c20cba606', '\x20\x20\x20\x20\x20<div\x20class=\x22center\x22>', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</audio>', 'addTest', 'wear', 'mouthId', 'POST', 'replaceAll', 'selected', '011bed50e00e295f6817ee12ff1b7c357df6bd3dfaf365', 's_l', 'extension', '1a58b74470ee92c3434aa05c45c3', 'set', '56d87f88370e51023a8a1d', 'b16377bb7373fba4ea6969a97860', '6248511b0f91478b075b5a180dcb10', '#myTooltip', 'a85a879ade969b0f9de79d6cc06084', 'd282f081950ff105be', 'please\x20don\x27t\x20copy\x20my\x20code', '912160b07a74f2e5fe6536bb786fedfdc36757a04a78', 'data-descriptione', '8ocGcTd', '4efc74843e0660007b867b8a351e721973964582', 'pk5', '322a9a2153bfd6ae5b2699634caa73a42e272a212fa364bc', '26c48bcb4557806941', '<img\x20src=\x22', 'cos', 'parse', 'd0c97742b0', '30621dec46e105', '0f28', '752ba264ad232b6024', '44eeb46a', 'd8d9755ba95d', 'id_customer', 'pwrFlex', '6d6d', '622c570107855c', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_w1\x22\x20style=\x22display:\x20none;width:\x20150px;text-align:\x20center;\x22>', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20عربي<input\x20type=\x22checkbox\x22\x20id=\x22tmwiq\x22\x20value=\x22true\x22>', 'c09b2233e43526b7e8b92a3bec3d32fbb9d7324ab01834', 'img_p_3', '24130a9250a60b194511078b49', 'closest', 'UAE', 'webkitRequestFullScreen', 'country', 'lineHeight', 'click.ddslick', 'f46641a299bb1727932e55aa64fc203276', '.dd-selected', 'f0b3572d902044', 'programmer', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22saveGame\x22>(', '69bf85c3b88d', 'c9193c953956ab72b0357e673a28a46db73e767a342ba8', '53673a22b2', '4825a5e83cfce0216c0ef6ca229b', 'ae481523e5aa10a2d333', '</button>', 'd9293a622b2fac', 'loading', '4b9f255bac6bb426', 'tmwsle', 'd92b297e3c37bd6587340666', '685ececb1efec1510324dcb7', 'd923284f3220ac758f26247d133389', '4a2d693121bc79952b3c75073f8b719d23', '23bd4b72c2a0877d4ab14830df8fc15743ca5843d99d97594f834f4b9184a050', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22backgroundArena\x22></select>', '\x22\x20id=\x22btnFullScreen\x22/><input\x20type=\x22button\x22\x20value=\x22', '13b77068f3', 'setSelectionRange', '74e6', '7ca4d02be529ecb4e5b8a379ee35a5baf8b4a038be16b78ff8a1b909fd', '0bd262d3e5b3b95e60b8312f', '3eea', '0f6d7cede969e1f476266aecf43ef0', '9e4e0455e1db0dd9c2', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x222\x22>Zigzag\x202</option>', 'lengthComputable', 'adbd4e0453ce9e07dac8430157dfde', '0eeba2c07c50a44464c2b6dd', 'reload', 'toggle', 'c46163efbcec787e', 'e295c5918338dd0d', 'edb70b', 'f11016521c159e4797', 'd162', '6814c7c841c9dc5e1e32d4ac06a8', '\x20\x20\x20\x20\x20\x20\x20</div>', '2edc82a4533791005aa295ac543f', 'a7f7c0774abb486d808cd84c56885a41d8c5cf4b57885c578dc0f3066d842b51', '#fff', '8d17612474fabd23f4eb72666de5fa3fe9eb6d7e42fdcd20ccf8523d', 'beginFill', 'pk6', 'died', '2f135acbdd25c7d456117dc3d818', 'e4164bdac5dc5c5e824903cb95b946', '6fc11586b0cc9c8a13', 'd5a13be72e', '818177cd6993', '67f707a88efd89a71cd4109696c79d8719cf1c', 's_headshot', 'link', 'fd861ad1e5', 'hover', '4519b78dab1523992c52bb68922a36673e69a761b72d', 'c8f46b72a2', 'pageX', 'fa24df6290fca5ff763ca77d67f9affc', 'onchange', 'stylesheet', 'setItem', 'value2_hs', 'lineStyle', 'f141', 'c47367f3add064', '1576e5adfa6368a57260bfb8c8754ba40570cbb7c86e10aa4c6cd689df451392504585c8', '0d97e1a4f47a3da3746bf2e6eb6f68b9717ab1a3c97351b1', '1c4d', 'c10f', 'f70b9407565c110f8655735fe64cf55b715965', 'flx', 'body', 'wrapMode', '0000', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22file\x22\x20accept=\x22.json\x22\x20id=\x22fileSkin\x22\x20/>', '47433fd5a218edd32ee93feafaff', '782fcfa51fb9d720ee', '33db5c428a', '9e55295fc6d61c', '#joystick_mode', '471d3fdfa508', 'ae5c1f25d7', '288d0f035852049e466001e046ec0673', 'c47c68f3ade1247cad706bb1a4ce7350a0406489bbc67458b9436a8189f04150814552', 'e7718d', 'new', 'a4968e12cb128f9f', 'ee5cd7e09f66996697e9cee889', 's11', '.description-text', 'min', 'fromCharCode', 'div_w1', 'fbdf9b963adee0906fd161', 'c0b27167ab6763babef06f6ce1736be7a4', 'locale', 'd_5', '9f97e446', 'bc4cb7df9fd24d5e945943c38d', '026b', 'name', '0d8afdb5f4', 'mode', '</span>', '172a75ebf827', 'sel_top', 'e0d04657a75d4fdb8c', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22sel_zigzag\x22\x20style=\x22margin-left:\x2010px;\x22>', '#port_id_s', '257bc8addd727eb24670c097df', 'appendChild', 'e44643c3', '0ddde9a6f76475a2', '0a6fa3686df7a3d57351a0', '172476e4fc25e9fb7b35', 'fbcd978f07', '240008934d9f03154919', 'padEnd', 'b94954824e4bd184a456', 'selectedData', '4bdf2b58a966b724', '41dbad1db1', '7cacdd2cef24aca7dba1bf27ed', '011eea', '5cd6ae52', '5e9a4b', 'onclose', 'b62d', 'c2b2f2b4b236fa0cb8b7', '16e6aadb7b529e5878c985c3', 'd0d56056b1', '7025d7a511b7', '4cbbe67e2468f69e', 'eaddd8849e1a8d', '51ab', 'texture', '8197', '.dd-option-description', 'get', '9deb663552d6ca37d1', 'ee0481fc', 'val', 'b79cd65e5a80', 'streamer', 'e8db4b4889', 'clientX', '10dd3b0e734525957bd4780f7d193fd5499c0314415a15814fd2121640460c9e436444b718d53e490a5303c908ef29773572f8a32df4ce45787acef43ad1bd7b6345eb9667e8ef122e4af7c82ae0f46e177ce18a1ed1cb540170e2e100dec071002380f74d8cdc020d04e9821ba8fa7fe91c819ae3b09267e1148992ebb9a333fc05e2a9e2809257f12499aaeba49a3e913f8bb294bbb22ec130a293d89faa0fcae2b545de5fa2b7d1eab241d06eccd9b9f56f46ad456cefbfc05249a35449cee9e87913ad6b52f6ade4636aec634af5b7fc4850d1794cd387f57e6ed97144f1c28d66208c095cab97876e2089000d96749f2812711b019a7f951e0a761124b477ac2836612b3fd72ba6095f2d241a8c15bd0826503b1c9c5db73d1c1e3000a6024f31b706e43537084739bf0cd4073f385cfba771dcc2563c54e0ce39d0f75e286cc1972ee9c26e6965f0e63be0f47a157c91ea55f8e1505a76e98f5ddfed0f450dd896138bcc020d06edac0883ea24f51c948ab49b920dbe10a399e1bc9927e33181aafebfbb3df520b3d3b7bd9d56da158f908fd7c949', 'btn_in_t', '03d5768fe9db', 'value2_kill', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Smooth:\x20<select\x20id=\x22sel_sm\x22>', 'pk4', '520667', 'f3e3878707c0108988', '027fab7462fea6fe2a7aa86b6beda4c86146b94078d3', '224388545fd29a', '51b9e2f9', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221\x22>1</option>', '1d69faa4e27d4da0406ed3', '9fda813203f4053687f8893a0bfc117ac696914b57d917', 'c435', '5ecc509e120654580b92468c47184314008c1d7713ef', '_config', 'b10140905a54d2c5db5f42c15e41d69eb26d76c47506f7', 'bf91a556009c2c5aa3', '.dd-options', 'map', 'ccg_1', '9e4b0f5fc7', 'render', '/images/bg-pattern-pow2-TEAM2.png', 'dba2f3ee66b04ffc', 'joystick_checked', '#mm-action-buttons', 'e29dcb9b8402d1188897c9be8f0ac3e4', 'dac8f180f303c91f87dec69a9203c714', '.dd-option-image', 'd0d17d51a04c79c99cc0795f', 'e76d9a3f19720c338a', 'done', '66d841940b1c490e4193556f01ad44eb11', 'b46486f7dde79e', '51b9e3f9', 'addEventListener', '19e8f723fee5', '621e41061592469e0f09', '23b75665', '6058ccd701cd88500954cf951fd2cd56112d9cb01ca4c4222a2cc9be10b99022e522b194ebbaa2', '882dafa3f899a73ce4', 'destroy', 'nome', 'onerror', 'img_2', '225596', '\x20\x20\x20\x20\x20\x20\x20\x20\x20Skin_Wear_file\x20(.json)\x20&nbsp;', 'f5c51ac5548b98d89481119df19e62cd', 'ea82', 'radian', 'f6b8dfe8976ef1629aeafd', 'abs', 'adf7410454da9d03d4cb524649c5cb19cd8052152fc7ed07b1d9351d67d6a41fa6db2b', '11b3', 'now', 'afdbc44c5a825a54dac8ca4b569c514bcdc28512', 'div_save', 'expires_in', 'd5e93ee538adbefff2ac38bd0eb090e084b50bfd47aa85fb', 'f5811bc70e', 'e9791b70083f9c45dc15124d014b81419c1d', 'init', 'a6581d4dcfc924d8c7581835', '2f1a78ccd701cd', 'getElementById', 'pwr_flex2', 'fadeOut', 'pause', 'toLowerCase', '72b814', '0100e653ec1969', 'f220c77199f5dda4987ec5209de0a9ff714cf52336a7f8', 'c2b1e5a6a3', '8344f71364517a13e452ad136a2478f7fe34b5e07b2778fea02de9fa6d3943e7d73185e0423b1bba', 'round', '#f9cc0b', 'left', 'ajax', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20⏩<input\x20type=\x22checkbox\x22\x20id=\x22tmwspeed\x22\x20value=\x22true\x22>', 'HEADSHOT', 'img_4', '.dd-select', '9855f598ec8cb0519c029292cacb', 'empty', 'append', '\x20</div>', '221e935044dc81cd074f9e5c40cc96ae402e', 'exitFullscreen', '#btn_crsw', '3233862045b49dad', '.dd-selected-text', '00be2c21613422ae7bad2b2f693e26be7e8637', 'f5c504c71a839ac0d08c0ac4f59d6dc7', 'c4726af6bbea6f6888746deb', '</small>', 'f6eb', '4eb37f8f350a60103282', 'e8d15e5680', '307517fb40f00462', '34a60668487c0aa650e219603565aff02bfbf2762177efe9', 'f43042ae94e74e22912810ab61a831', 'd614f300b4aaee9fbf16e4188187', '6b740c2aab499216', 'center', '\x20\x20\x20\x20\x20\x20\x20<br>', '#joystick_color', '6d2d874f86', '9b3ff8fd6c394efcd004c9f75e3d4d', 'b792f0445f8945', 'fc6d', 'slice', '071b7a11e252a0197d2f64f2be20f0f5743a70faef25f2e0322444ead7', 'a7afcc787cb54979ca94', 'c7d3', 'fbc5938a1ac8af9562d960d8e6d6fd936ad86f92e0a3fa6761ea7875f0fc', 'showSelectedHTML', 'backgroundArena', '77cf18879e', '4cbe', 'e7689b3f19730132ac4f840c07', '1684b5c4374abf5977c08e9c4e5c835c48', 'Cindynana\x203', '520a7a01339f368e3b0679432c8a53840e070a050a964b9c23156e120f8d54', ':visible', '\x20<button\x20id=\x22op_tmw\x22>', 'userAgent', '75px', '#css-ddslick', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x223\x22>Zigzag\x203</option>', 'pk1', 'img_p_1', '85556b5d681eee4efe536d3565f6fc2ab8ea723e7ce6', '0f2474e4f636', 'hide', 'd92d', 'ea98c3928516d5', 'btnRePlay', 'play', '7aee4eff117d6d67ebf633', 'replaceWith', 'loa831pibur0w4gv', 'reconnectAttempt', '22508b5a4dde8d', '0c6d22ab20', 'isSignedIn', 'addAsyncTest', 'f0f1', '41d3a704a9d73e1d3b', 'c_2', 'div_arab', 'ce3df112b7', 'https://timmapwormate.com/skin-wear-wormate/', 'dd-option-selected', 'innerHTML', 'img_f', '4eea', 'click', 'selectedIndex', 'getAuthResponse', 'kill', '1f234afbcd15d7e446216df3c828', '.dd-option-text', 'd96a', '5d2db07484', '142737947dbd3f1368182c8a', 'wormate.io', 'Container', 'acdfce1cdce08170892782e8d9fa8e6ece2d8ae0a1e27676b63865f8a1f77939f2172ebff0813203f4053687f8893a0bfc0d22c68dd60250885455c4d59b5e548d4e5ada82ec512c9d2b45ea91a45d69dc2c52bb3df3153c763827a36df9093465336cff6393315e364a3f8a798e3f18330e31864eae5141145b16994fdb4a5412774edf102152a314a5562718295aab1cad426b2967a2f028f4f564753bfef42deefa7a220cf1cc3dcbe50a2e48f68962', 'html', '7b594931', '77cb168395dfa2dd4d85b1', '00b82c37612d68b069b42f75613c27b13e8c370d614b2389748639004f06378153df011c491027994ca9061a55', 'f0b55d36972d53a99c', 'userId', '0bda6f', '<button\x20id=\x22op_tmw\x22>', 'pop', '685ecbd609f0c15b15', '2bff40738293da4b5dc94554d29e', 'siblings', '13b77072c3a1f46f', '302202ec44f0062a5c6c16ee48e8536e2372ede62ae1', 'removeChildren', 'json', '648ed359015fc5c9019ddd5e1d31dea606f7f267', 'Modernizr', 'b5ca58095d', 'event', 'join', 'fillText', '7036daaa00a0', '/dynamic/assets/registry.json', 'unshift', '46875c8a2b357f', '16d7aac0794e', 'bd8d4c0433d7b717ad9b251731', '\x20dd-selected-description-truncated', 'ddaf2ce90fb1', '905b', 'location', '000000', '28c2', '13a2', 'clientY', '81b351f14bb7', '110px', '3ef467bd1d036b262fa361b624667a382deb38c9', '10c2210660113f897f9a7718740229c24e900f1657581580418d0913', '53773028b3', '75159c41972d0943081ebe427313fa70ec1573', '05d5ebdde89e6ece7ed3f9a9f475', '95e57a2c', 'cb5fb8d023b626a8e7e7afa23bb06da5e2ee', 's_kill', '<input\x20type=\x22hidden\x22\x20id=\x22port_id\x22\x20value=\x22\x22>', 'img_o_3', 'https://timmapwormate.com', '#e03e42', '7f82e5', 'volume', '29f6c432caf75b1555c7', '\x20<div\x20id=\x22modal_tmw\x22\x20class=\x22modal\x22>', '52106606', 'd286e280b813', 'c790bb5f2d', '24101e877c96241e5409', 'a2d00bdbc8520b4dcfdf', 'd45f5fc9bccc62', 'bc798ceeaee26e72b07c69f985f87e69a565', '</label>', '423f612323bb', '23e80a72ceae97', 'c635e72baebefef0ad30fc0ea0', 'getElementsByClassName', '1884351e6805088e5298031d503414854980', '19e7fa25f3', '8317e6196e567a57fd55e809', 'd92b2e78357c', '8346e0116e57673ee25ff9', '<div\x20class=\x22dd-select\x22><input\x20class=\x22dd-selected-value\x22\x20id=\x22backgroundArena-value\x22\x20type=\x22hidden\x22\x20/><a\x20class=\x22dd-selected\x22></a><span\x20class=\x22dd-pointer\x20dd-pointer-down\x22></span></div>', '0bcc619ff6a5e3', '87dbe69579d87e', '\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>', 'function', '8831afb2ebb5ba', '95e27e3b69e6fa35', 'label_kill', 'f0b357359d365fa896', '7b580f0f91436d13f751ad5b32082c56ab11b84e2a6931f1f025f9e33f', 'setAttribute', 'padStart', 'e3c795a40eec0c', 'fast', 'VUd4bFlYTmxJR1J2YmlkMElHTnZjSGtnYlhrZ1kyOWtaUT09', '9b2afced7a324efdc879cfe5543c42', '4b98244dbf6cb03b', 'width', '59adb7edaebd3ae334bc88fa8aa109', 'text', '5cc5f74b05', 'Cindynana\x20GM', '18c0', 'none', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22sel_country\x22></select>', 'slideUp', 'fd8616d7e9a160db7793', 'ee439fe59b758a', '7cfdd23bb1', 'sel_sc', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_sm\x22\x20style=\x22display:\x20none;width:\x20150px;text-align:\x20center;\x22>', '#joystick_checked', 'e0d24d5d8a5045c38ddd', 'custom_skin', 's_h', 'Max\x20reconnection\x20attempts\x20reached.\x20Giving\x20up.', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20🔊<input\x20type=\x22checkbox\x22\x20id=\x22tmwsound\x22\x20value=\x22true\x22>', '#config_mobile', 'size', '\x20<input\x20class=\x22dd-option-value\x22\x20type=\x22hidden\x22\x20value=\x22', '5ffb', 'b7c3', '51e1a3f6baa03ee43ce7aeffb8bc31f10cb7', 'fd9d1ac2f79771eb7084eb', '5d61b37f863b0d', 'e0c64751b35c42d08dcd', 'e44d', 'd93e3e6d300ab67395', 'csg', 'ae5614', 'fn_o', 'f387868303dc10849cdfd09816d5f6', '2ecc98ae451398244fa28a875b26993e', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x227\x22>7</option>', '4a38633420ac4fd064532455', 'fc6e4dbb6fa3277e632729a278aa', 'b1435780764ede84dd', 'document', '1c4370cf14d14c5d', '4b9b284a896cbe23273767', 'ir_modified', 'base', 'div_crsw', '0594e6dbe29d79d37890ebedf26d7fab67', 'data-imageSrc', 'a844', 'zoom', 's_tmw_', '189a2c0c', 'KILL', 'eie', 'd097', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<audio\x20id=\x22s_h\x22>', 'c11126863759b5d5ae5b3f993a5fb62db22d3d6a3025a361b624767e383aad69', '557da266b02c347e306eb271956143', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22backgroundArena\x22>', 'df6096', 'touches', 'd5e527e729bfaba1b9ab33f515b7cef586b508ed07aec6ff82b01bc1188c96d6', 'c95325982846e167b02f362a2529a77da9643669333bf163953d11714b3a887b823f0f', 'img_i_2', 'remove', 'pwrFlex2', 'clickOffToClose', 'b42bd8a78aa9d425', '9b13efeb792244e1cb', 'replace', 'be6ced3cefbfedbba37afc36ba', 'scale', '370157cede1493c95e1d249ca21ab1df261c2bd6a41fa6db3dae3cb1b4b6', '4cf5eb763749e6', 'ab7c82be', 'positionMode', 'prototype', '156ff3', '20980c17410d489049940f555c121e8a402f1fe65af058745d7d0ee252ea0d213470e0', 'c_white', 'from', '798997c598800befe896', 'ef039d071240101484059b1f0f581200d2586815eb47e619755d', '11a1f220f7ea3a7a', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x2210\x22>Hight</option>', '5844f3c535cef24610', '4b8c224cbb69be2c', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x222\x22>2</option>', '3eec6dbc6f3267212fb866f42d2e692e3a', '0be37997ecab', 'visibility', '633b012f8979843308330c2d9c4585115c5610109e5b90051502171d905e', 'acaead2df5c4bc', 'c_4', 'ccc', '5d069e44', '173d6aefe905f9', 'total', '#saveGame', '5d7cbb', 'c35ab1d9260b3ddfb951aed126ee22efb0e8bab532', '9017e3bc', 'd1203c602c', 'd282e58ba000fb19a0dba982ac04cf138a', 'custom_wear', '8b4cff1b7c3374e6', 'f43f7fa99cac42', 'resolution', 'buttonMode', 'target', 'ARENA', '#btn_copy', 'd3e3b9a920', 'e3e497b90dfd0aae82f383930ed4038b8b', 'Texture', 'fa30c96397e9afe36f33b27065a5e8', 'a5e4422b5de8c23fd9fb4b', 'display', 'a5f1553950', '82fb25e1c27e2b6d', '5040f6c717cdff4b3c', 'fefcabf86c', 'fill', '6b7b0a', 'b6351d2ed3a412', '08ac393e7e142a', 'a80b8f97cd898709d5d19377dc', '4b982848a663b4123a7c302a8569ad2334', 'arraybuffer', 'toString', 'selectText', 'PTSans', 'e092525c9440569a9ed04f4c', 'f8ea4a39932b57a365fc312765216bbf61be22086f323cba', 'offsetHeight', 'classPrefix', 'skinArrayDict', '2f135acbdd', '1c2a3b804d9416015d', 'e1271071171f83', '8362b43c49603a1efd5fe04f672456d7e725c2bf710563cbec29d9c72e1d60af9e', '766459670cea4f', 'baseVal', 'joystick_position', '0a72a8', 'b2a515acda', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_sound\x22\x20style=\x22display:\x20none;\x22>', 'cb08bfdf21f33da3a7edbaa81ae92db8b2f4', '95f3792c7cecf222f8ea', 'onclick', 'endFill', '5ecc5794030109030f925fd4091a420b', 'd8c82874', '1061712cXgJDV', 'ae5e411e', 'ee5cc0f39d65dd6993aacee09f7c', 'a80b8f9ac884bd0bd1f597', '6d7d9f529e041a48104b9250890f094518009c552c10e246', '.dd-pointer', '0230a27c68f6a4b4697abc6967f0be', '00b527356127', '6681419c1d', '272d5affd932ccf34a', 'joystick_pxy', 'splice', 'e8da45549e595d', 'tmwit', '3eab65', 'charCodeAt', 'opacity', '#joystick_size', 'ef418703074507338544', 'deltaY', '0c3b3bb173953b0c7a', 'fontSize', '#ffffff', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x226\x22>6</option>', 'keys', 'c2f0f7a1a925ed74adb4a1bea136fe12ff81e191a208f6', '56c8689c38446b18378b0f', '0f6362f6fc36f0ab61217cfdb62ffce069', 'addAttribute', '21fbc7', '57b32ca4b2eab2bc32b017b780a0c5', 'ee0cdbe89c42c67797fefce0997f', '6696468d031a481f0290536a17f1', 'canvas', 'pxy', 'then', '5a1c790f098644960707', '077e6515ea48be4c4e3263e3ea', 'c595340c3bdfbf1fa5932def29', 'resize', '32799a315eea9ba153279865', 'skin', '18ca3706311e35864edc0d054107', 'iterator', '5fb0', 'b101448154549a9cd0444fc15e46d09fb25731', 'visible', 'imagesrc', 'a2cb0cc7e05e0d55cec8', '339d', '61b387f0a6be0ef40d', 'application/json', '51b6b6fca1823eeb2d', 'enableClasses', 'concat', '<input\x20type=\x22button\x22\x20value=\x22', 'css', 'pk2', '2edb95a76d309f2c58989aa8492e', 'login', '669e469d0f03021a0f92552f06ec55f602624a2719e452fe1b61343feefa2afe', 'fc255bae64822a3c7026', 'createObjectURL', '86343f7cebe961f5ef6b230cf0d620d1f949', 'b347d8cb1a095ddcd20fd8835c1f2fc6', 'd0cf7b40bf4b77cabd', 'ccg_0', 'zIndex', '95ef792c7cf2b52bfce37a7e51fdd321d5b84a3d47ef8538c8f24a14548cc705d7', '1bef7063b2bcce7347bd4b718aa8db754cae486ddccdc5474b90', '2d6b9abf', 'keypress', 'bd8d521d6cd0ac00b1d92a552bcfbf08a2d03c', '2a64', '\x20does\x20not\x20exists.', '6c9ecf5b122d9fa01babc22e163cdfeb0fbddf21', '95e17b276e', '49d3a518a8c661e730afb6aab4a823e138aeb9e0b2ad34f513fc8ee782e2', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x222\x22>Center</option>', '\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22config_mobile\x22></div>', '9add35c8e9', '1201f4467ac6abda2709a8427fdc94d45013905a47c49cdc58168f5240cc95af466e952655a288bd5f2fde73', '56ed', 'opera', 'joystick_mode', 'c9013d9d3f47a66eb66225613674f7', 'floor', 'Map:\x20?', 'options', 'joystick_size', '63370330817e8f3c', 'a1714cbd4b65f8ef992a1b', 'data:image/png;base64,', 'onmessage', '9b7ef9', 'e1250a7a013990', 'parent', 'atan', '622c', 'toFixed', '33c74549c79dc90757835a47d1dda655', '19f8fe38e8fc7170', '\x20\x20\x20\x20\x20<div\x20id=\x22modal_tmw_body\x22\x20class=\x22modal-body\x22>', 'height', 'resendTimer', '/js/nipplejs.min.js', 'onwheel', 'isArray', 'cloneNode', '0efcbdc5', 'ce3ce312', 'op_tmw', '4ff738a6a7ec', '767d71671eee44', 'hatId', 'dc5d6cca93c24757', 'month', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x2220\x22>Normal</option>', '193740etQHSb', '92837485b61b3144fd8b3fc1ff5c130c80c70bd4d5430d4b87d803d3dd5a1e359fa217a6d3370c2cdee610a2d920a271b1a1e7e8e4', '6496', '4fe339a7b0efb0a2', 'children', '3579', 'be6cec34a3b7e1a7b57aea2cbeafe3b3e334f90dbe90', 'mo2', 'dsg', 'rotation', '1569010PRmGca', 'joystick', '10a0163c432c12b350', '#d4db19', '39c6d40bd4c06a0324c0', 'WHITE', '46f465b4672b603c37ba62cc3e0662003a', 'zero', '26d587dd53', '0918ea4fe8', '2bb65e3a9d', '19e3f528f8f6313740ffc67ac4f8533148fec930c2fd4405438cd00bdbd25e064ccf', '9fb3ce7646', 'Sprite', '9ad115c3fa4a18', '9808a992f28e', '10c4', '470f', 'random', 'stringify', '0eb78edd4e50fd', 'mo1', '8caaa636e404', 'c_3', 'ccg_2', '7e7f2163e7fd30', 'logout', '28910f124b151a', 'lastUrl', 'a96d43b5597b', '57da3ca9afedb3a933f5', '1525fba7f86e72a27a23efa2ce7551b156658abac868', '\x22\x20src=\x22', '#port_name_s', 'accessToken', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22sel_server\x22>', '.dd-option', '3a04b81446805498701c40003199629c7f16480836', '5240711724886ac43d0a7108738c4f9f0c1647010f9846d41c12490a', '0bc86886fb84f86167', '85067551641f', '9819af98f4', '46f478b63a2e7c7023ba7e947f007b0c3894358b3513', 'signIn', '.ddslick', '5565ba69ab212e7c7026ba71853711', 'ae1c0724d3b159a9d924132cdee61eaccc62f434baa7', 'controlResend', 'a051c7', '9e4d0142c7', 'addChild', '36f0', 'a794e5', '917a', '#loa831pibur0w4gv', '1a6a9869', 'a6520549dec2', 'f8aa552f99', '3eec6dbc6f306b3c28a425bb2523', 'hidden', '#joystick_position', '8861', '<style\x20id=\x22css-ddslick\x22\x20type=\x22text/css\x22>.dd-select{\x20border-radius:2px;\x20border:solid\x201px\x20#ccc;\x20position:relative;\x20cursor:pointer;}.dd-desc\x20{\x20color:#aaa;\x20display:block;\x20overflow:\x20hidden;\x20font-weight:normal;\x20line-height:\x201.4em;\x20}.dd-selected{\x20overflow:hidden;\x20display:block;\x20padding:2px;\x20font-weight:bold;}.dd-pointer{\x20width:0;\x20height:0;\x20position:absolute;\x20right:10px;\x20top:50%;\x20margin-top:-3px;}.dd-pointer-down{\x20border:solid\x205px\x20transparent;\x20border-top:solid\x205px\x20#000;\x20}.dd-pointer-up{border:solid\x205px\x20transparent\x20!important;\x20border-bottom:solid\x205px\x20#000\x20!important;\x20margin-top:-8px;}.dd-options{\x20border:solid\x201px\x20#ccc;\x20border-top:none;\x20list-style:none;\x20box-shadow:0px\x201px\x205px\x20#ddd;\x20display:none;\x20position:absolute;\x20z-index:2000;\x20margin:0;\x20padding:0;background:#fff;\x20overflow:auto;}.dd-option{\x20padding:2px;\x20display:block;\x20border-bottom:solid\x201px\x20#ddd;\x20overflow:hidden;\x20text-decoration:none;\x20color:#333;\x20cursor:pointer;-webkit-transition:\x20all\x200.25s\x20ease-in-out;\x20-moz-transition:\x20all\x200.25s\x20ease-in-out;-o-transition:\x20all\x200.25s\x20ease-in-out;-ms-transition:\x20all\x200.25s\x20ease-in-out;\x20}\x20ul.dd-options\x20{height:\x20130px;}\x20.dd-options\x20>\x20li:last-child\x20>\x20.dd-option{\x20border-bottom:none;}.dd-option:hover{\x20background:#f3f3f3;\x20color:#000;}.dd-selected-description-truncated\x20{\x20text-overflow:\x20ellipsis;\x20white-space:nowrap;\x20}.dd-option-selected\x20{\x20background:#f6f6f6;\x20}.dd-option-image,\x20.dd-selected-image\x20{\x20vertical-align:middle;\x20float:left;\x20margin-right:5px;\x20max-width:64px;}.dd-image-right\x20{\x20float:right;\x20margin-right:15px;\x20margin-left:5px;}.dd-container{display:\x20inline-block;\x20position:relative;}​\x20.dd-selected-text\x20{\x20font-weight:bold}​</style>', 'c5d329', '</h2>', 'head', 'not_connect', 'shift', '9de67e2474fcc83acae149', '08b63f2f692f06ba79863a17', '46a37ab824286a323cb2', '67a31fbf88aecdab199d', 'cc6e7af0a0', '916072a77e61e5a7ec647f8f7262f0a2', 'eyesId', '371d57cede0ad4c05a14', '\x22\x20/>', '4cf3e1713254ebc236c9f3', 'option', 'd5a538e732a3be', '929c35c6f5422b5ac5df33c6fb415d', '486ce4ff29fbe7713545', '289a0517430f2a965375', 'VjI5eWJXRjBaUzVwYnc9PQ==', '36a69cad792395215a', '9326f4e57c2f6be5ee22f9a37c3f4dfdd1', '#tmwsound', '7fd8f58673c73fd9a8caec8964c97f9deab3bf757cb67867e3adb76374', 'b42686f5d7ef9367d9208dfba1e52f67ab6167fb9cf0677e9f6d6bf1a4', '06f0bdfc796f', '0f21', '\x22\x20id=\x22btnRePlay\x22>', 'e5b808b5', '36e5d7f706648f3d5fa13eed3123653b78', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x220\x22>100%</option>', '2a4e9f585cf694', 'a9725fa85d6d95cf9e4552905051d691975d549e504fcb95ef5b2c', 'e2a595bfa82f9b1d9c98c1cc861bf7d48662e33c90cac2c88d6ef844cfc281ac3f', '9dad683540e08e3dd1f34a7559e8c23fc8', '69a0a2f289bb17', 'img_o_2', '0260ac7434a2fe', '701ed1ac19b5da220c2c', 'div_background', '1564f6a6f76f69', '5fbf4eb18cfa8bb304ec47bc8aff88bc00cf1acc9dc181c9', 'b2ed00aad7340c2cc8e610a8c82aec24b2fee7b9a924ed', 'df338c330a7a483b82769c771d750829', '#mm-params-game-mode', '3540c286da5e528353', 'label_hs', 'substr', 'bd9c5b', 'cf64b8312368343f', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x224\x22>4</option>', '188b3b1879', 'className', 'feeab8e14d7d887070f2a4', '9fa3c47c47', 'https://i.imgur.com/LFiCido.png', 'pk0', 'baa91da3d02af2', 'a5f35e3d5adec23fd9', 'ed8a0ad8059781c1', 'd40666d5b7cf7347b9006ddb81c50f51814652e49dcb5c529a5c42eb99ac57', '3b8f5141cc95', '51fefcf7a5a739b665b9abedb3f0', '2c5340df01215cad', '504efccf3bc4f2', 'fullscreen', '7cb8cc23', 'dynamic', 'de4ccc1e8397cd9b815ade108f8c', 'rel', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_speed\x22\x20style=\x22display:\x20none;\x22>', '141524826b9a3f0f', '79839f', 'ddslick', '8d19632162f1f637d1ef743c', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20value=\x22', 'b46c92', '590244dfKDNi', 'close', '97abf66e7e', 'img_p_2', '8aa02ff2e06c2401f4cf3bc4e2070a66cef41de3d963256ee6f6238891195d02c9d402ceda1f162ddda200e5e4082c16f9842ff0dd20f379909cd08a8719cf158f84c8988970a159e2cda4cfe049aa51e9daa4d8ed5f9740d5ca91cdd05e931a8595df89ce19dcee93779457b9d3e7dab345817e97e1e8c34d479b5448d084dc555f895a21aee8913c13fe133895e09a2b13e91e2e98d1861b06dc030f8c9ed6435fcc504fd69ee91b389329699797ba533f952250f276b421672c7d', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22id_customer\x22>', 'b46293f3fde59f66d9638afc82e85672a35b67faad', 'c94d2e9e1a57ab67b436696b3b', 'div_top', 'f8e95525902450aa29', '257fc3', '932dfbe2723037edfa21f8a0733540f6c6268be2482818aa', 'game', 'd76eab151d5e', 'sqrt', '\x22wear\x22:', 'not', 'ef0395071f410103da499a091459131ad2466817f4', '1ece84d5615b8d5942', '32279b2643aa9da74e', '17677deff729e9eb5e3342fdd63ad1', '<div\x20class=\x22div_FullScreen\x22><input\x20type=\x22button\x22\x20value=\x22', '3184dd0dd6cd590954cf86', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22btn_copy\x22>', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<source\x20src=\x22', '2a4d', '2bac426cdb89de4c668a5e48d89fd7', 'value1_hs', 'ea94', '10c23e0c730c38ca6e803f1c', '501ae4cc3dc1b64a3940f48375d6f9433f77d0d203f6c95b074b97cf09c5da4a022480875c', '0582e8cdea9266d37b9b', 'imagePosition', '5844f5de28c5d74b', 'getElementsByTagName', 'cc7f6fecb5', '9e48055ecedc07d4d25e0757', 'regionDict', 'uri', '4190fd', 'day', 'de08c505ab9dd0c6d4', '6ed95e6301f30f', 'fee7a9f567', '3eec77b4232129232fb27ff4243e7429', 'a92905ef032f', '382a0dee5dff53792974f5', '0c3c2abb53893b0f70', 'maxReconnectAttempts', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>', 'addClass', '1203fb05', 'getImageData', 't_tmw_', 'sel_country', '11f7fd20f0e07e267cee', 'a0529596c587cb15dd00c799d9899a10de', '4a3c603c3dac75921b07', '52167a01338171873f0f', 'note', 'URL', '375416d9cb0dd390035f208c', '5b7f3627b1519320026d213f846c', 'putImageData', '8cfd', '1952209WqPojt', 'getContext', 'caf8ffa9a12df54cbb97f188fb17ea00b98e', '6375152682768d190375013a', 'f3c7998904cd', '4236723028a3', '46a56dbe233462', '535b3028b3', 'f70e8a011242340ac2', '\x22\x20height=\x2240\x22\x20/>', 'd_4', '\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_save\x22\x20style=\x22display:\x20none;\x22>', '.\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.', '9de87e3444ddd620', '354fd98cdc52158b5c43dadeb15d33813518aa9da74f65902259a66eff363266', 'b5d4521b50d0de', 'change', 'There\x20was\x20a\x20problem\x20connecting!', 'game-view', '84b4f408', 'error', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Top:\x20<select\x20id=\x22sel_top\x22>', 'format', 'f22dc66294ab88a7ca228770', '67b8', 'c44a', 'offsetWidth', '2242', '928a6fd8', 'ce3afe', '34f018635d6f13e559e9', 'mobile', 'glassesId', '51e2', 'bc2e93e2edfd6772a07074e4', '0959ed55e31f636d62eaf236f0ab712a', '1d28f8bcc06150b1565fc3e5', '89d978c8628ceaede76b76b33876e5adef', '4191a01babc2261b3d97b809bdce20f225', 'createElement', 'attr', '071627', 'img_clock', 'sortableChildren', 'btn_crsw', '981abf85f8', '1573f9acfc6c72a2786a', 'listVariant', '3542d28edc58', '4846', 'constructor', 'b95e5e94495bcd95855b2080', 'b0ab', 'c7dbba4e248e2813ad75a86f31712132b866', 'fa67d36c9aeaa4', 'b6370a2cd9a20fa4d121a039abb4eca5e631e436abafb7abaf2de908bc84b493b304aa49', '5d07ee28af0d2e513605a65fac09', 'create', '67ff05b59c', 'Cindynana\x201', '9cdda65d', 'file', '3ce8086a2e65', 'div_sm', '5a037904398754', 'Method\x20', 'ccg', '7b431302905165', 'af94d45a47914743f381da5e', 'null', '\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22close\x22>×</span>', '59a8b7e3bea5', '#backgroundArena-value', '67a811ea', '72f755f711624c3458d45ee11f6c2b33a2fb36f0e0', 'propertyList', 'c_v', 'a6600d5bf9d40fd6cb4b', 'cab9e9aeba0ce513a48ae284ba33f104bfb8f98e', 'pCc', '2d6aca98c5665a8741', '386a15e44ee90d', 'unset', 'modal_tmw', 'div_sound', '43d7235fa999a51726993e4dae67b4', '9367f6e9792f6bebef3fb0ec78', 'original', '022feb6676f6a6a73668bc7c60a1ecc87f44f45664c4e58b', '56936a9c3f', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22btn_clear_file\x22>Clear\x20file</button>', '3273983104', 'e3f7', '4ef97e8831087a043b8225', '4072f1e0', 'atan2', '\x20\x20\x20\x20\x20\x20\x20<div>', '56b86a8c2b1e791e2a', 'binaryType', '\x20\x20\x20\x20\x20</div>', 'description', 'de0dc10287', '63630034b0718d3d0e68', 'identifier', 'getUint8', '5066d7f7', 'imageSrc', '\x22\x20style=\x22width:\x20185px;\x22\x20type=\x22text\x22\x20id=\x22id_customer\x22\x20readonly>', 'requestFullScreen', 'dd-pointer-up', 'id_token', '77f82bafa9e3b1a220f5cdb74e', '88098383c5', '0db9ca94', 'f273c66c9be2', '8d0b7c2563cbf7', '2565ccb1c74f45b74371d88e', 'trim', '\x22\x20>', 'be73e438b4f3edb1fb75', 'de00d5058781f39c8203c0', '<ul\x20class=\x22dd-options\x22></ul>', 'c5d0261125', '851a664c600efe58e8', 'WebSocket', 'tmwsw', 'right', 'split', '<input\x20type=\x22hidden\x22\x20id=\x22port_name_s\x22\x20value=\x22\x22>', '2bb4596adf938b0d1c935a54da89cd4f158552', '899b6fd84e96e6acf5', 'appendTo', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221\x22>Zigzag\x201</option>', '/images/', 'F_bg', 'a7fbdd754aaf597bddcdc74b5693', '64e5f2640957d9', 'a2c010d4d2421b', '835deb126240271dea51e8507c2f72ebf228bbf57f296befc929eefb73240fffc627d6d8482a44', 'preventDefault', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22setting-item\x22\x20id=\x22div_zigzag\x22\x20style=\x22display:\x20none;\x22>', 'toUTCString', 'bdcd531f32d7', 'c313a0c202142cd7ae12b9fc36c935', 'fail', '455fa99cac42659b2c53aa2ebc233a6a7b2bb266ac642e623121bc7bb2390a7a1678947088280e', '899b7fc86c9de7', '209c0d06501d229e4b8d', 'img', '.dd-selected-description', 'defaultSelectedIndex', '5d62ee3ed17b4a3a1d2fcb28c76a472d436ec61b870710105539a44b8b0f1e422d0f8d516c01be', 'ddfe27a4', 'cabae8b98d37f90db6', '209f', '29b0dd39cead07', 'item', 'ce7fb041f2dff08ca047fb05bb98efd0fc1bcf109187c187cb14c717999ec289c31ed3e29773c06092aadbe6947fdd6490eab2b33c', '64c6cd5e0678d8c90dc4ea561335', '#fff009', '4cb2fe6a320ee5d63dc1b9', 'a2d411d0d543', 'f384d5c6578859cadb908e9e1edea1916fd57685ba9afd956acf799bfdedf26d7db77068e3e5f86978a96d7afab48c6646ac513499', 'selectedItem', 'undefined', 'c620e13dbeb3', '3ee973ba2b3d4d317b', '6045cdc705d9f65b0940fed201d8fd5a13', 'sendInitialHandshake', 'text/css', 'apply', '/check', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x2210\x22>10</option>', 'status', '4078ecf721eda8702974efb53ef8fd6a3c55bcc03bcbe24e365cff', '2210935047c5c5de465a9f4e4bccdda34737802a58', '21b2', 'textureDict', '3bbe5840db95b35731', '5521bb69aa393e7f1927bc64', '3ee062a43b03763a36b27aad33', 'img_1', 's_w', 'b34e', 'c95c29bd3e47a163982c3a70', '3ce11f7b2965f7f721', 'canvastext', '898f65d86898e6aef466', 'show', '071b6f13e55de1537c237ef0f6', 'keydown', 'ab67dbfb4c5211cfc6088896195d13dcde0f8f86602322c0a611abe6260a28d7b852b59467df02a1a1e1b0a807e92babb6fff3b972a14fe2cabfd4f857b4368988ee88bb01f0109092c986c80e8251b5a8cf8f8b1aded19371d56885a9c2a4cb258c24d5beeea12b28b27065a5e8ef3826e46878b2a6c47111fc153892f499341ef50434c295dd0802ca07138c9e8b174d895e1c9786f31c3bde177993a78a7518d13b0ce179fb101c500a159e46f53c692225648d5fb50d305d2b7d912ac723414e220ab063be315a0e0303941ad15b571e54558a463c04b10f', '_blank', '899764c97e9bebafe66c', 'ee5cd1e5906f9931', '.dd-selected-image', 'a849', 'd5fa33e12feab8e0bcbd2cad43a682f689b34aea06adc9a2d1ad1fc11fdc', 'revokeObjectURL', 'f0b2572d90', 'removeClass', 'a859', 'a2d60a', '#mm-advice-cont', 'style', '5cfef64e0454d0', '6ccfcb58192edc', '\x20dd-image-right', 'a368c1ff516615e9dd3b8de6420c5fd18e46ddd243180385941bcad91107729cac06a2997548798ae40fbbd96da027a7a1f7bca939b57bfbf5bdffee27ad43e2c1b49ceb45a84bfa9df588a92dcf09dfd194d5d6579c4cdcdb98c8d85d90f99f6f8e7686e6dbecc729cc7f9bfca5e37476e62b', 'block', '0ebcbdcc3f50bf4c788ab6cc625f', '6edc5d6c5ff358e40f624a240ff859ff106e2d74', '984aaa99f38bb703c55c8e96d2908a', 's_n', 'reconnectDelay', '0b9c', '1e8c93c54d41811844c29194495485535de0c3f30773', 'd_3', 'cf75a227214d31', 'img_pf_1', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_top\x22\x20style=\x22display:\x20none;width:\x20120px;text-align:\x20center;\x22>', 'search', 'container_count', 'dd-click-off-close', '57a72aaeb0a2b7bd', '\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_server\x22>', 'ef419506304c1c0a93', 'bdc95e1d24', 'currentUser', '2561cfb1dd7f', '20b02b237b2723ba67af2f', 'aliases', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22tooltiptext\x22\x20id=\x22myTooltip\x22>', 'fa36', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x229\x22>9</option>', '917176aa71', '#btn_clear_file', '149200HTAFnH', 'c2b4f1b0b523', 'Text', '29f3cf', '21e1d137', 'e5f159a446be82ead3', 'backgroundColor', '11edfd34e7e9703a7cf9e8', 'unbind', 'push', '8cfeaf3bf20dffd7', 'cf61a330327d3733b16ebc38', 'getItem', 'e8f01b03a26262febe86', 'call', 'c_1', '00b72b3f61062fad6d', 'pow', '9486b908ea0da9', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x225\x22>5</option>', 'substring', '87dae59b68d7', 'VUdoaGJTQlFhSFVnUW1GamFBPT0=', '535b212fb463', '8830ae', '3b8d594afc98a85e27', 'a9794ab25b7fdc', 'background', '289c120b450f0b8c0d', '\x20<img\x20class=\x22dd-option-image', '#div_zigzag', 'pwrFlex1', '851e62516e12ff', 'disableFlex', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x220\x22>0</option>', 'keyup', 'username', 'd648e81cb8c4eb98b70b8f', '385a31c272', '569f7e8b3707', 'fea2edbc', '21b1d020cae442754befd271cef1460e42fd82568096', '\x22\x20type=\x22audio/mpeg\x22>', 'max', 'open', 'b43e97f3ccfb9369c9799bafb6f46121e4', 'd5af39ec3cb2f5ebbca33abe13b790e189a249ec1ba3a3f599', 'customer', '423461210fb97ce1', '1edad3ee', 'ebfe82ba16', '03c36c92f3d0', 'value', '04170a92469d151643190b8c', 'cc6d7becb8', ':selected', '#e74a94', '9ad83fdff75f14', '\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>', '79d3ce95c9dc4a81b8c032873ddbf6d2f8c838d0349bbfaff93a7fa37134feabf76877be7f68fdbcc06017b5177089b9d96a58f24a71c087dd4746975054d487d75e5e824900dc9fac', '36a09dbd6e229128', '8e6b2254f7', '#sel_zigzag', '#FFF', '9006be8ce3', '44baf563296bfe', '47192dde8814a4d22b', 'ac9c8a1bf3e99b6fd0', 'embedCSS', '737b1c089e5c', 'Cindynana\x204', '071b7915fb49fd53632f76ebfd69f3e4', 'd_2', 'a0058b87c890', 'd28afa81b31fb60ebb86f9c3aa00c1029696d6db8518c60d8395d998', '0d95e6acfd71', 'dc492c9699d37575d46f758698db1b03d97354fdc48c581683', '5812ecca2ed4f7410711d4d6078786', '#port_name', 'start', 'e3f78ab814fd07aeb4ef99bf1bc52ed0', 'edbd00ce05878bd0988319dd', '19a9eb3ef2e8763c44bfd020c4e20a3f48f7ce2ffdf24e1954c6', 'e3b784b205f444e9', 'e16e4c700c20d912c97a4b3c4d7ecf00d14253045546d708c50e125a5d0d93517201be16f119664b7d1ff911e11b79257df7e369e1e36f3c3bb4', '<small\x20class=\x22dd-selected-description\x20dd-desc', '4ce8e07b3547fbcd31c1', 'moveTo', 'b11e4094544889', '786adbaf1ea1937e', '85156b516a11', 'game-cont', '3f1537d7ad00', 'normal', 'f46a46b29ae64d3e952911', '#eee', 'tmwSaveGame', 'tint', 'ae121f6cc6b115abc521173bd7', 'pk3', '56c47584771b700c278a52dc070b545804965a', '090af959ff11632c', 'type', 'b78cd0594b805c57', 'img_o_4', 'fa71f5639aeab8', '#f8d968', 'color', '#port_id', '66a04d9b39144f160b8b', 'ce18d535', 'dac8ef86b701d35c949ac182', '/images/bg-pattern-pow2-ARENA.png', '8aa03af2e77b704cf3ca3a8dbf5c3f45c5ed2eccf96c0f5dcdc159c1c34f1c4cd8de5ef986', 'dd9a3ae815', 'df718f3d0d6d0839926b', 'ebfe8cbd04c7038d86ca91a518c41698', 'vendor', '6a1a48192d97596d16', '6edc5d6c5ff040ea0462', 'https://i.imgur.com/wJRSUUx.png', 'mm-action-play', 'a85a8d9ac198c309d9e485', '904d', '#5dade6', 'settings', '11bb', 'b5d55c0157e3df', 'obj', '\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_arab\x22\x20style=\x22display:\x20none;width:\x20120px;text-align:\x20center;\x22>', 'pwr_flex', '4cad', 'indexOf', '3b995671eab1', '.dd-selected-value', '74b08018', 'oco', 'clear', '763b4a6c19ff1cf5432d7033a2ea79b7b635686ee3ff38f5b33d6414a48174cdf34e3f41ee967e99ab194211c4da08d99b154b0c9b8c2df99f1d5f7f8eb315b1de671c7498864ef98c61b771f6e6b283f460b177fdb3a1e8f771a317ffd4a5cbef0fad50f4d8eac0e85f8e4581c389c1d5599159d9ce82cbc34889afc723833cd8b295bec3258965c8bdb6a7363df27d2ba3fcb73e78e12c3db1e981220ee6103894f8982b05ef002c9ace820201d11b15c1dd89420dd4131bd3ddf81c76d47207e9c1a1177ec5630f9934e47429267520be64b577792f3b28b932ce6c5f3b16208026', '1d2df2bd8c7e4cb5417fc9bf', 'c31ca0d7232b21d5bf0f', 'Customer', 'find', '8e6f2244f1ca27ccf9497844ffcf35d8f35f4057cedc05c19d561c4dd8d20ec8da5a5037d7a046e5', '74aac3331d3bf2ae15aad63b', 'prop', 'd_1', 'b5c2520e5cd8', 'fileSkin', 'readAsText', 'saveGame', 'dde12fe503fd94e18cb248', 'pageY', '9dea', 'Map:\x20', 'bb42938e0c506f9c', 'pwr_flex1', '3d54f69ea5573b', '277b4ce8d933dfb3480145c7c405cc8b540757c4de0fc9c7501e6cc4aa11b2', 'alpha', '73540703845b9c0e', 'catch', 'length', '9fb6c07e50b1', 'list', '95804ZfKsWo', 'd605e121b38cf4bebd00d214', '3cef', '0a6bbe7463fa', '82b029f8ab742770e4e861ebef73', 'd9283a7f38', '288b0f1c451200', '\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221\x22>⬛</option>', 'UTJsdVpIbE9ZVzVoSUVkTg==', 'b47793e9dcec88', '5ff10fa68af581b40bf70ab18eee', '/store', 'dc40', 'select', '</div>', '5a0278', '\x20&nbsp;', 'removeItem', '9a883acbf8490657', '883aa5b7e3af8a36f315', 'changedTouches', '7824d5be08a5fa26e325', '\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22div_crsw\x22\x20style=\x22display:\x20none;\x22>', '51b5bae0a1ae', 'btnFullScreen', '5a11', '\x20\x20\x20<div\x20class=\x22modal-content\x22>', '6d2d9d43', 'lastOnOpen', 'fontFamily', '<button\x20id=\x22btn_crsw\x22\x20style=\x22display:\x20none;\x22>', '4ceaeb7d0748f6c431d1', '2bbe4c6dca', '.dd-click-off-close', 'd0cd7755b149', 'f46c', '156ff9acfc7235ab7c63fafed17d53a15538cabdc76f05ac5f71c989dd471d905444', '<div\x20id=\x22', 'ddbb31f404b48afa80b2', 'lineTo', 'be26ee35a7abaab2a73aed77b8beffa8a22bbe11be82f780f80e', 'settings-show-names-switch', 'b439d9e686', 'mousedown', 'feffb2fe6876a7616ff8a6d46b6fbe7476', 'interactive', 'onSelected', 'stop', '3bcc', 'position', 'headshot', '44eeb66a', '3563f9be', '5cd8f04b0557cbdd01d1', '2564c2abd97545af484ad690d4', 'Tim\x20map\x20Wormate', 'sin', '8e4f0472f3cd27', 'b0f58b73d1', 'be6ced3cefbee1bbb37aeb36a4af', '11a1ff2bf4e27e267ea7eb3ef2e96d3552e18e20c0ee53', '2a16', '59a3b5e8b8b671f700bf86ba91b906eb1dbf99b28eb101d3148c878a81830fdc', '1e8c84d44e5690500bd68bda454e824903cb99ac5731', 'stopPropagation', 'each', 'authResponse', '3a61', '30442bc667', 'CLOSING'];
+    
+
+/**
+
+ * WormWorld Skin Changer - مغير سكنات وورم وورلد المطور
+
+ * تم إزالة ميزة الدوران وإبقاء باقي الميزات
+
+ * الإصدار النهائي 1.1 - معدل
+
+ */
+
+(function() {
+
+    'use strict';
+
+    
+
+    // =============== الإعدادات الأساسية ===============
+
+    
+
+    // السكنات الافتراضية للتبديل - يمكن أن تكون أرقاماً أو نصوصاً مختلطة
+
+    const SKIN_IDS = [131];
+
+    
+
+    // أسماء اللاعبين للتبديل عند النقر بزر الماوس الأيمن
+
+    const NAME_OPTIONS = ["انا كلب", "انا حمار", "ستريم جحاش"];
+
+    
+
+    // متغيرات التحكم
+
+    let pauseUpdates = false;
+
+    let flyingInterval = null;
+
+    let effectsActive = false;
+
+    let isPlayerListVisible = false;
+
+    let isToggleButtonVisible = false; // إضافة متغير للتحكم في ظهور الزر
+
+    let modalOpen = false; // إضافة متغير للتحقق من وجود نافذة مفتوحة
+
+    let inputActive = false; // إضافة متغير للتحقق من حالة الإدخال النشطة
+
+    let isHoveringList = false; // إضافة متغير للتحقق من تحويم الماوس فوق القائمة
+
+    let originalMousePosition = null; // لحفظ موضع الماوس الأصلي
+
+    let effectsMode = 'none'; // حالة التأثيرات: none, hover, modal
+
+    
+
+    // سجل التغييرات للاعبين
+
+    const playerChanges = {};
+
+    
+
+    // =============== وظائف المساعدة ===============
+
+    
+
+    // قص اسم اللاعب للعرض
+
+    function truncateName(name, maxLength = 15) {
+
+        if (!name || name.trim() === '') {
+
+            return '********';
+
+        }
+
+        return name.length > maxLength ? name.substring(0, maxLength) + '...' : name;
+
+    }
+
+    
+
+    // إنشاء معرف عشوائي
+
+    function generateRandomId() {
+
+        return Math.random().toString(36).substring(2, 10);
+
+    }
+
+    
+
+    // الحصول على اللاعب الحالي
+
+    function getCurrentPlayer() {
+
+        if (window._wwc && window._wwc._anApp && window._wwc._anApp.dh && window._wwc._anApp.dh.ch) {
+
+            return window._wwc._anApp.dh.ch;
+
+        }
+
+        return null;
+
+    }
+
+    
+
+    // التحقق من حالة اللعب
+
+    function isInGameState() {
+
+        return window._wwc && 
+
+               window._wwc._anApp && 
+
+               window._wwc._anApp.dh && 
+
+               window._wwc._anApp.dh.ch;
+
+    }
+
+    
+
+    // =============== وظائف التأثيرات الخاصة ===============
+
+    
+
+    // حفظ حالة اللاعب الأصلية
+
+    function saveOriginalPlayerState() {
+
+        try {
+
+            if (!isInGameState()) return;
+
+            
+
+            const currentPlayer = getCurrentPlayer();
+
+            if (!currentPlayer) return;
+
+            
+
+            // حفظ موضع اللاعب الأصلي إذا لم يكن محفوظًا بالفعل
+
+            if (originalMousePosition === null) {
+
+                const playerPos = currentPlayer.fh();
+
+                originalMousePosition = { x: playerPos.x, y: playerPos.y };
+
+            }
+
+            
+
+            console.log("تم حفظ حالة اللاعب الأصلية");
+
+        } catch (e) {
+
+            console.error("خطأ في حفظ حالة اللاعب:", e);
+
+        }
+
+    }
+
+    
+
+    // استعادة حالة اللاعب الأصلية
+
+    function restoreOriginalPlayerState() {
+
+        try {
+
+            if (!isInGameState()) return;
+
+            
+
+            // استعادة موضع اللاعب إذا كان محفوظاً
+
+            if (originalMousePosition !== null) {
+
+                const currentPlayer = getCurrentPlayer();
+
+                if (currentPlayer && currentPlayer.vh) {
+
+                    currentPlayer.vh(originalMousePosition.x, originalMousePosition.y);
+
+                }
+
+            }
+
+            
+
+            console.log("تم استعادة حالة اللاعب الأصلية");
+
+            
+
+        } catch (e) {
+
+            console.error("خطأ في استعادة حالة اللاعب:", e);
+
+        }
+
+    }
+
+    
+
+    // تحديث حالة التأثيرات بناءً على الوضع الحالي
+
+    function updateEffectsState() {
+
+        // تحديد وضع التأثيرات الحالي
+
+        let newEffectsMode = 'none';
+
+        
+
+        if (modalOpen) {
+
+            // إذا كانت هناك نافذة مفتوحة، فعّل التأثيرات دائمًا
+
+            newEffectsMode = 'modal';
+
+        } else if (isPlayerListVisible && isHoveringList) {
+
+            // إذا كانت القائمة مفتوحة والمؤشر فوقها، فعّل التأثيرات
+
+            newEffectsMode = 'hover';
+
+        } else {
+
+            // في الحالات الأخرى، أوقف التأثيرات
+
+            newEffectsMode = 'none';
+
+        }
+
+        
+
+        // تطبيق التغييرات إذا كان هناك تغيير في الوضع
+
+        if (newEffectsMode !== effectsMode) {
+
+            effectsMode = newEffectsMode;
+
+            
+
+            // تطبيق التأثيرات أو إيقافها حسب الوضع الجديد
+
+            if (effectsMode === 'none') {
+
+                // إيقاف التأثيرات واستعادة التحكم الطبيعي
+
+                if (effectsActive) {
+
+                    stopSpecialEffects();
+
+                }
+
+            } else {
+
+                // تفعيل التأثيرات إذا لم تكن مفعلة بالفعل
+
+                if (!effectsActive) {
+
+                    startSpecialEffects();
+
+                }
+
+            }
+
+            
+
+            console.log("تم تحديث حالة التأثيرات:", effectsMode);
+
+        }
+
+    }
+
+    
+
+    // بدء تأثير الطيران
+
+    function startFlying() {
+
+        // إيقاف تأثير الطيران الحالي أولاً
+
+        stopFlying();
+
+        
+
+        // حفظ حالة اللاعب الأصلية إذا لم تكن محفوظة بالفعل
+
+        if (originalMousePosition === null) {
+
+            saveOriginalPlayerState();
+
+        }
+
+        
+
+        let flyStep = 0;
+
+        let amplitude = 4; // تم تقليل مقدار الارتفاع والانخفاض
+
+        
+
+        // تأثير الحركة لأعلى وأسفل
+
+        flyingInterval = setInterval(function() {
+
+            try {
+
+                if (!isInGameState()) {
+
+                    return;
+
+                }
+
+                
+
+                const currentPlayer = getCurrentPlayer();
+
+                if (!currentPlayer || !currentPlayer.vh) {
+
+                    return;
+
+                }
+
+                
+
+                // التحقق من وضع التأثيرات الحالي
+
+                if (effectsMode === 'none') {
+
+                    // استعادة الموضع الأصلي في وضع عدم التأثيرات
+
+                    if (originalMousePosition !== null) {
+
+                        currentPlayer.vh(originalMousePosition.x, originalMousePosition.y);
+
+                    }
+
+                } else {
+
+                    // تطبيق تأثير الطيران في أوضاع التأثيرات
+
+                    if (originalMousePosition !== null) {
+
+                        // تحريك اللاعب لأعلى وأسفل بشكل متموج
+
+                        const verticalOffset = amplitude * Math.sin(flyStep);
+
+                        
+
+                        // تحديد المكان الجديد للاعب
+
+                        currentPlayer.vh(originalMousePosition.x, originalMousePosition.y + verticalOffset);
+
+                        
+
+                        // زيادة خطوة التأثير
+
+                        flyStep += 0.1;
+
+                    }
+
+                }
+
+            } catch (e) {
+
+                console.log("خطأ في تأثير الطيران:", e);
+
+            }
+
+        }, 50);
+
+        
+
+        console.log("تم تشغيل تأثير الطيران");
+
+    }
+
+    
+
+    // إيقاف تأثير الطيران مع استعادة الحالة
+
+    function stopFlying() {
+
+        if (flyingInterval !== null) {
+
+            clearInterval(flyingInterval);
+
+            flyingInterval = null;
+
+            
+
+            try {
+
+                // استعادة موضع اللاعب الأصلي
+
+                if (originalMousePosition !== null && isInGameState()) {
+
+                    const currentPlayer = getCurrentPlayer();
+
+                    if (currentPlayer && currentPlayer.vh) {
+
+                        currentPlayer.vh(originalMousePosition.x, originalMousePosition.y);
+
+                    }
+
+                }
+
+            } catch (e) {
+
+                console.error("خطأ أثناء استعادة موضع اللاعب:", e);
+
+            }
+
+            
+
+            console.log("تم إيقاف تأثير الطيران");
+
+        }
+
+    }
+
+    
+
+    // تفعيل التأثيرات الخاصة
+
+    function startSpecialEffects() {
+
+        if (effectsActive) return;
+
+        
+
+        effectsActive = true;
+
+        console.log('بدء التأثيرات الخاصة');
+
+        
+
+        // حفظ حالة اللاعب الأصلية قبل بدء التأثيرات
+
+        saveOriginalPlayerState();
+
+        
+
+        // إطلاق تأثير الطيران فقط
+
+        setTimeout(() => {
+
+            startFlying();
+
+        }, 50);
+
+    }
+
+    
+
+    // إيقاف التأثيرات الخاصة واستعادة التحكم
+
+    function stopSpecialEffects() {
+
+        if (!effectsActive) return;
+
+        
+
+        console.log('إيقاف التأثيرات الخاصة');
+
+        effectsActive = false;
+
+        stopFlying();
+
+        
+
+        // استعادة حالة اللاعب الأصلية
+
+        restoreOriginalPlayerState();
+
+        
+
+        // إعادة تعيين المتغيرات المتعلقة بالتأثيرات
+
+        originalMousePosition = null;
+
+    }
+
+    
+
+    // التأكد من إيقاف التأثيرات في جميع الحالات
+
+    function forceStopEffects() {
+
+        effectsActive = false;
+
+        stopFlying();
+
+        
+
+        // استعادة حالة اللاعب الأصلية
+
+        restoreOriginalPlayerState();
+
+        
+
+        // إعادة تعيين المتغيرات المتعلقة بالتأثيرات
+
+        originalMousePosition = null;
+
+        
+
+        // إعادة تعيين وضع التأثيرات
+
+        effectsMode = 'none';
+
+    }
+
+    
+
+    // =============== وظائف تغيير السكنات والأسماء ===============
+
+    
+
+    // تغيير السكن للاعب - تم تحسينها لدعم المعرفات المختلطة
+
+    function cycleSkin(playerId) {
+
+        if (!playerId || !isInGameState()) return;
+
+        
+
+        // الحصول على اللاعب من قائمة اللاعبين
+
+        const player = window._wwc._anApp.dh.Fh[playerId];
+
+        if (!player || !player.Eh) return;
+
+        
+
+        // إنشاء سجل للتغييرات إذا لم يكن موجودًا
+
+        if (!playerChanges[playerId]) {
+
+            playerChanges[playerId] = {
+
+                originalSkin: player.Eh.Hh,
+
+                originalName: player.Eh.ma,
+
+                changes: [],
+
+                currentNameIndex: -1
+
+            };
+
+        }
+
+        
+
+        // دورة السكنات بين القيم المحددة - دعم المعرفات المختلطة
+
+        const currentSkin = String(player.Eh.Hh);
+
+        const currentSkinIndex = SKIN_IDS.findIndex(id => String(id) === currentSkin);
+
+        const nextIndex = (currentSkinIndex === -1 || currentSkinIndex + 1 >= SKIN_IDS.length) ? 0 : currentSkinIndex + 1;
+
+        
+
+        // تغيير السكن
+
+        player.Eh.Hh = SKIN_IDS[nextIndex];
+
+        
+
+        // تسجيل التغيير
+
+        playerChanges[playerId].changes.push({
+
+            type: 'skin',
+
+            from: playerChanges[playerId].originalSkin,
+
+            to: player.Eh.Hh,
+
+            timestamp: Date.now()
+
+        });
+
+    }
+
+    
+
+    // تعيين سكن محدد للاعب - تم تحسينها لدعم المعرفات المختلطة
+
+    function setSkinById(playerId, skinId) {
+
+        if (!playerId || !isInGameState()) return;
+
+        
+
+        // الحصول على اللاعب من قائمة اللاعبين
+
+        const player = window._wwc._anApp.dh.Fh[playerId];
+
+        if (!player || !player.Eh) return;
+
+        
+
+        // التعامل مع معرفات السكن سواء كانت أرقاماً أو حروفاً أو مختلطة
+
+        const newSkinId = skinId;
+
+        
+
+        // إنشاء سجل للتغييرات إذا لم يكن موجودًا
+
+        if (!playerChanges[playerId]) {
+
+            playerChanges[playerId] = {
+
+                originalSkin: player.Eh.Hh,
+
+                originalName: player.Eh.ma,
+
+                changes: [],
+
+                currentNameIndex: -1
+
+            };
+
+        }
+
+        
+
+        // تعيين السكن الجديد
+
+        player.Eh.Hh = newSkinId;
+
+        
+
+        // تسجيل التغيير
+
+        playerChanges[playerId].changes.push({
+
+            type: 'skin',
+
+            from: playerChanges[playerId].originalSkin,
+
+            to: newSkinId,
+
+            timestamp: Date.now()
+
+        });
+
+    }
+
+    
+
+    // تغيير اسم اللاعب
+
+    function setCustomName(playerId, customName) {
+
+        if (!playerId || !isInGameState()) return;
+
+        
+
+        // التحقق من صحة الاسم
+
+        if (!customName || customName.trim() === '') return;
+
+        
+
+        // الحصول على اللاعب من قائمة اللاعبين
+
+        const player = window._wwc._anApp.dh.Fh[playerId];
+
+        if (!player || !player.Eh) return;
+
+        
+
+        // إنشاء سجل للتغييرات إذا لم يكن موجودًا
+
+        if (!playerChanges[playerId]) {
+
+            playerChanges[playerId] = {
+
+                originalSkin: player.Eh.Hh,
+
+                originalName: player.Eh.ma,
+
+                changes: [],
+
+                currentNameIndex: -1
+
+            };
+
+        }
+
+        
+
+        // الاسم السابق
+
+        const previousName = player.Eh.ma;
+
+        
+
+        // تعيين الاسم الجديد
+
+        player.Eh.ma = customName;
+
+        
+
+        // تسجيل التغيير
+
+        playerChanges[playerId].changes.push({
+
+            type: 'name',
+
+            from: previousName,
+
+            to: customName,
+
+            timestamp: Date.now()
+
+        });
+
+    }
+
+    
+
+    // تدوير الاسم بين الخيارات المحددة
+
+    function cycleNameOption(playerId) {
+
+        if (!playerId || !isInGameState()) return;
+
+        
+
+        // الحصول على اللاعب من قائمة اللاعبين
+
+        const player = window._wwc._anApp.dh.Fh[playerId];
+
+        if (!player || !player.Eh) return;
+
+        
+
+        // إنشاء سجل للتغييرات إذا لم يكن موجودًا
+
+        if (!playerChanges[playerId]) {
+
+            playerChanges[playerId] = {
+
+                originalSkin: player.Eh.Hh,
+
+                originalName: player.Eh.ma,
+
+                changes: [],
+
+                currentNameIndex: -1
+
+            };
+
+        }
+
+        
+
+        // الاسم السابق
+
+        const previousName = player.Eh.ma;
+
+        
+
+        // تغيير الاسم للخيار التالي
+
+        playerChanges[playerId].currentNameIndex = 
+
+            (playerChanges[playerId].currentNameIndex + 1) % NAME_OPTIONS.length;
+
+        
+
+        const newName = NAME_OPTIONS[playerChanges[playerId].currentNameIndex];
+
+        
+
+        // تعيين الاسم الجديد
+
+        player.Eh.ma = newName;
+
+        
+
+        // تسجيل التغيير
+
+        playerChanges[playerId].changes.push({
+
+            type: 'name',
+
+            from: previousName,
+
+            to: newName,
+
+            timestamp: Date.now()
+
+        });
+
+        
+
+        return newName;
+
+    }
+
+    
+
+    // إعادة تعيين سكن اللاعب
+
+    function resetSkin(playerId) {
+
+        if (!playerId || !isInGameState()) return;
+
+        
+
+        // الحصول على اللاعب من قائمة اللاعبين
+
+        const player = window._wwc._anApp.dh.Fh[playerId];
+
+        if (!player || !player.Eh) return;
+
+        
+
+        // التحقق من وجود سجل للتغييرات
+
+        if (playerChanges[playerId] && playerChanges[playerId].originalSkin) {
+
+            // إعادة السكن الأصلي
+
+            player.Eh.Hh = playerChanges[playerId].originalSkin;
+
+            
+
+            // تسجيل التغيير
+
+            playerChanges[playerId].changes.push({
+
+                type: 'reset_skin',
+
+                timestamp: Date.now()
+
+            });
+
+        }
+
+    }
+
+    
+
+    // إعادة تعيين اسم اللاعب
+
+    function resetName(playerId) {
+
+        if (!playerId || !isInGameState()) return;
+
+        
+
+        // الحصول على اللاعب من قائمة اللاعبين
+
+        const player = window._wwc._anApp.dh.Fh[playerId];
+
+        if (!player || !player.Eh) return;
+
+        
+
+        // التحقق من وجود سجل للتغييرات
+
+        if (playerChanges[playerId] && playerChanges[playerId].originalName) {
+
+            // إعادة الاسم الأصلي
+
+            player.Eh.ma = playerChanges[playerId].originalName;
+
+            
+
+            // تسجيل التغيير
+
+            playerChanges[playerId].changes.push({
+
+                type: 'reset_name',
+
+                timestamp: Date.now()
+
+            });
+
+            
+
+            // إعادة ضبط مؤشر الاسم
+
+            playerChanges[playerId].currentNameIndex = -1;
+
+        }
+
+    }
+
+    
+
+    // إعادة تعيين جميع إعدادات اللاعب
+
+    function resetAllSettings(playerId) {
+
+        resetSkin(playerId);
+
+        resetName(playerId);
+
+    }
+
+    
+
+    // =============== وظائف واجهة المستخدم - معالجة المدخلات ===============
+
+    
+
+    // تعيين حالة الإدخال النشطة
+
+    function setInputState(active) {
+
+        inputActive = active;
+
+    }
+
+    
+
+    // =============== وظائف واجهة المستخدم - النافذة المخصصة ===============
+
+    
+
+    // إضافة تأثير رفرفة للنافذة
+
+    function addFlutterEffect(promptId) {
+
+        const overlay = $('#' + promptId);
+
+        if (!overlay.length) return;
+
+        
+
+        const promptBox = overlay.find('.wwc-custom-prompt-box');
+
+        
+
+        // إضافة تأثير الرفرفة
+
+        let angle = 0;
+
+        const flutterInterval = setInterval(function() {
+
+            angle += 0.1;
+
+            
+
+            const scaleValue = 1 + Math.sin(angle * 1.5) * 0.03;
+
+            
+
+            promptBox.css({
+
+                'transform': `scale(${scaleValue})`
+
+            });
+
+        }, 50);
+
+        
+
+        // حفظ الفاصل الزمني في كائن النافذة لإيقافه لاحقًا
+
+        overlay.data('flutterInterval', flutterInterval);
+
+        
+
+        // إيقاف التأثير عند إزالة النافذة
+
+        overlay.on('remove', function() {
+
+            clearInterval(flutterInterval);
+
+            
+
+            // إيقاف حالة الإدخال النشطة
+
+            setInputState(false);
+
+            
+
+            // إيقاف حالة النافذة المفتوحة
+
+            modalOpen = false;
+
+            
+
+            // تحديث حالة التأثيرات
+
+            setTimeout(function() {
+
+                updateEffectsState();
+
+            }, 50);
+
+        });
+
+    }
+
+    
+
+    // إنشاء نافذة إدخال مخصصة
+
+    function createCustomPrompt(title, defaultValue, callback) {
+
+        // إزالة أي نوافذ سابقة
+
+        $('.wwc-custom-prompt-overlay').remove();
+
+        
+
+        // تعيين متغير النافذة المفتوحة
+
+        modalOpen = true;
+
+        
+
+        // حفظ حالة اللاعب الأصلية قبل فتح النافذة
+
+        saveOriginalPlayerState();
+
+        
+
+        // تحديث حالة التأثيرات
+
+        setTimeout(function() {
+
+            updateEffectsState();
+
+        }, 50);
+
+        
+
+        // إنشاء معرف فريد للنافذة
+
+        const promptId = 'wwc-prompt-' + generateRandomId();
+
+        
+
+        // إنشاء العناصر
+
+        const overlay = $("<div>").addClass("wwc-custom-prompt-overlay").attr('id', promptId).css({
+
+            position: 'fixed',
+
+            top: 0,
+
+            left: 0,
+
+            width: '100%',
+
+            height: '100%',
+
+            backgroundColor: 'rgba(0,0,0,0)',
+
+            zIndex: 999999,
+
+            display: 'flex',
+
+            justifyContent: 'flex-end',
+
+            alignItems: 'flex-start',
+
+            backdropFilter: 'none'
+
+        });
+
+        
+
+        const promptBox = $("<div>").addClass("wwc-custom-prompt-box").css({
+
+            backgroundColor: 'rgba(0, 0, 0, 0.8)',
+
+            padding: '15px',
+
+            borderRadius: '8px',
+
+            minWidth: '200px',
+
+            maxWidth: '250px',
+
+            boxShadow: '0 0 15px rgba(0,128,255,0.7)',
+
+            display: 'flex',
+
+            flexDirection: 'column',
+
+            gap: '6px',
+
+            margin: '180px 15px 0 0',
+
+            border: '1px solid rgba(100, 200, 255, 0.5)'
+
+        });
+
+        
+
+        const promptTitle = $("<div>").addClass("wwc-custom-prompt-title").text(title).css({
+
+            fontWeight: 'bold',
+
+            fontSize: '15px',
+
+            color: '#fff',
+
+            marginBottom: '5px',
+
+            textAlign: 'center',
+
+            textShadow: '0 0 5px rgba(0,150,255,0.8)'
+
+        });
+
+        
+
+        const promptInput = $("<input>").addClass("wwc-custom-prompt-input").attr({
+
+            type: 'text',
+
+            value: defaultValue || ''
+
+        }).css({
+
+            padding: '6px',
+
+            border: '1px solid #4a90e2',
+
+            borderRadius: '4px',
+
+            width: '100%',
+
+            boxSizing: 'border-box',
+
+            backgroundColor: 'rgba(255, 255, 255, 0.9)',
+
+            color: '#000',
+
+            fontSize: '14px'
+
+        });
+
+        
+
+        const buttonContainer = $("<div>").css({
+
+            display: 'flex',
+
+            justifyContent: 'space-between',
+
+            marginTop: '8px'
+
+        });
+
+        
+
+        const cancelBtn = $("<button>").text("إلغاء").css({
+
+            padding: '5px 10px',
+
+            backgroundColor: 'rgba(244, 67, 54, 0.8)',
+
+            color: 'white',
+
+            border: 'none',
+
+            borderRadius: '4px',
+
+            cursor: 'pointer',
+
+            flex: '1',
+
+            marginRight: '5px',
+
+            transition: 'all 0.3s ease'
+
+        }).hover(
+
+            function() { $(this).css('backgroundColor', 'rgba(244, 67, 54, 1)'); },
+
+            function() { $(this).css('backgroundColor', 'rgba(244, 67, 54, 0.8)'); }
+
+        ).click(function() {
+
+            overlay.remove();
+
+            setInputState(false);
+
+            
+
+            // إيقاف حالة النافذة المفتوحة
+
+            modalOpen = false;
+
+            
+
+            // تحديث حالة التأثيرات
+
+            setTimeout(function() {
+
+                updateEffectsState();
+
+            }, 50);
+
+        });
+
+        
+
+        const confirmBtn = $("<button>").text("تأكيد").css({
+
+            padding: '5px 10px',
+
+            backgroundColor: 'rgba(76, 175, 80, 0.8)',
+
+            color: 'white',
+
+            border: 'none',
+
+            borderRadius: '4px',
+
+            cursor: 'pointer',
+
+            flex: '1',
+
+            marginLeft: '5px',
+
+            transition: 'all 0.3s ease'
+
+        }).hover(
+
+            function() { $(this).css('backgroundColor', 'rgba(76, 175, 80, 1)'); },
+
+            function() { $(this).css('backgroundColor', 'rgba(76, 175, 80, 0.8)'); }
+
+        ).click(function() {
+
+            const value = promptInput.val();
+
+            overlay.remove();
+
+            setInputState(false);
+
+            
+
+            // إيقاف حالة النافذة المفتوحة
+
+            modalOpen = false;
+
+            
+
+            // تحديث حالة التأثيرات
+
+            setTimeout(function() {
+
+                updateEffectsState();
+
+                
+
+                // استدعاء دالة الاسترجاع بعد استعادة التحكم
+
+                if (callback) callback(value);
+
+            }, 50);
+
+        });
+
+        
+
+        // تجميع العناصر
+
+        buttonContainer.append(cancelBtn, confirmBtn);
+
+        promptBox.append(promptTitle, promptInput, buttonContainer);
+
+        overlay.append(promptBox);
+
+        
+
+        // إضافة النافذة إلى الصفحة
+
+        $("body").append(overlay);
+
+        
+
+        // تركيز الإدخال
+
+        promptInput.focus();
+
+        
+
+        // تفعيل حالة الإدخال النشطة
+
+        setInputState(true);
+
+        
+
+        // تعيين معالجات أحداث حقل الإدخال
+
+        promptInput
+
+            .on('focus', function() {
+
+                setInputState(true);
+
+            })
+
+            .on('blur', function() {
+
+                // لا تقم بإلغاء تنشيط الإدخال لأن هذا قد يحدث عند النقر على الأزرار
+
+            })
+
+            .on('keydown', function(e) {
+
+                // منع انتشار أحداث مفتاح R خارج حقل الإدخال
+
+                if (e.key === 'r' || e.key === 'R') {
+
+                    e.stopPropagation();
+
+                }
+
+                
+
+                // معالجة الضغط على Enter
+
+                if (e.key === 'Enter') {
+
+                    const value = promptInput.val();
+
+                    overlay.remove();
+
+                    setInputState(false);
+
+                    
+
+                    // إيقاف حالة النافذة المفتوحة
+
+                    modalOpen = false;
+
+                    
+
+                    // تحديث حالة التأثيرات
+
+                    setTimeout(function() {
+
+                        updateEffectsState();
+
+                        
+
+                        // استدعاء دالة الاسترجاع بعد استعادة التحكم
+
+                        if (callback) callback(value);
+
+                    }, 50);
+
+                }
+
+            });
+
+        
+
+        // معالجة الضغط على ESC
+
+        $(document).on('keydown.customprompt', function(e) {
+
+            if (e.key === 'Escape') {
+
+                overlay.remove();
+
+                setInputState(false);
+
+                $(document).off('keydown.customprompt');
+
+                
+
+                // إيقاف حالة النافذة المفتوحة
+
+                modalOpen = false;
+
+                
+
+                // تحديث حالة التأثيرات
+
+                setTimeout(function() {
+
+                    updateEffectsState();
+
+                }, 50);
+
+            }
+
+        });
+
+        
+
+        // تأثيرات الحركة للنافذة
+
+        promptBox.css({
+
+            animation: 'wwc-float 3s infinite ease-in-out'
+
+        });
+
+        
+
+        // تأثيرات الحركة للنافذة
+
+        promptBox.css({
+
+            animation: 'wwc-float 3s infinite ease-in-out'
+
+        });
+
+        
+
+        // إضافة تأثير الرفرفة
+
+        addFlutterEffect(promptId);
+
+        
+
+        return promptId;
+
+    }
+
+
+
+    // =============== وظائف واجهة المستخدم - قائمة اللاعبين ===============
+
+    
+
+    // إنشاء واجهة المستخدم الرئيسية
+
+    function createUI() {
+
+        // إنشاء قائمة اللاعبين
+
+        if ($("#wwc-player-names").length === 0) {
+
+            const playerList = $("<div id='wwc-player-names' style='top: 180px; right: 10px; width:200px; z-index: 999999; position: absolute; display: none;'></div>")
+
+                .prependTo("body")
+
+                .on('mouseenter', function() {
+
+                    pauseUpdates = true;
+
+                    isHoveringList = true;
+
+                    
+
+                    // تحديث حالة التأثيرات
+
+                    updateEffectsState();
+
+                })
+
+                .on('mouseleave', function() {
+
+                    pauseUpdates = false;
+
+                    isHoveringList = false;
+
+                    
+
+                    // تحديث حالة التأثيرات
+
+                    updateEffectsState();
+
+                    
+
+                    updatePlayerList();
+
+                });
+
+            
+
+            // إضافة أنماط CSS
+
+            const style = $("<style></style>").text(`
+
+                #wwc-player-names {
+
+                    display: flex;
+
+                    flex-direction: column;
+
+                    gap: 1px;
+
+                    padding: 4px;
+
+                    margin: 0;
+
+                    background-color: rgba(0, 0, 0, 0.7);
+
+                    border-radius: 8px;
+
+                    border: 1px solid rgba(100, 180, 255, 0.4);
+
+                    box-shadow: 0 0 15px rgba(0, 120, 255, 0.3);
+
+                    backdrop-filter: blur(3px);
+
+                    max-height: 80vh;
+
+                    overflow-y: auto;
+
+                }
+
+                .wwc-player-row {
+
+                    display: flex;
+
+                    align-items: center;
+
+                    width: 100%;
+
+                    margin: 1px 0;
+
+                    padding: 2px;
+
+                    position: relative;
+
+                    height: 18px;
+
+                    line-height: 18px;
+
+                    background-color: rgba(30, 30, 40, 0.6);
+
+                    border-radius: 5px;
+
+                    transition: all 0.3s ease;
+
+                }
+
+                .wwc-player-row:hover {
+
+                    background-color: rgba(50, 50, 80, 0.8);
+
+                    transform: translateX(-3px);
+
+                }
+
+                .wwc-player-name {
+
+                    position: absolute;
+
+                    left: 5px;
+
+                    right: 65px;
+
+                    color: white;
+
+                    font-size: 11px;
+
+                    white-space: nowrap;
+
+                    overflow: hidden;
+
+                    text-overflow: ellipsis;
+
+                    transition: all 0.3s ease;
+
+                    padding: 0;
+
+                    margin: 0;
+
+                }
+
+                .wwc-player-name.skin-changed {
+
+                    text-decoration: underline wavy #4a90e2;
+
+                    color: #a0e0ff;
+
+                }
+
+                .wwc-player-name.name-changed {
+
+                    font-style: italic;
+
+                    color: #ff9999;
+
+                }
+
+                .wwc-player-controls {
+
+                    position: absolute;
+
+                    right: 0;
+
+                    top: 0;
+
+                    display: flex;
+
+                    height: 100%;
+
+                }
+
+                .wwc-player-btn {
+
+                    width: 18px;
+
+                    height: 18px;
+
+                    display: flex;
+
+                    justify-content: center;
+
+                    align-items: center;
+
+                    font-size: 11px;
+
+                    cursor: pointer;
+
+                    transition: all 0.3s ease;
+
+                    opacity: 0.8;
+
+                    margin: 0 1px;
+
+                    padding: 0;
+
+                    line-height: 18px;
+
+                    border-radius: 3px;
+
+                }
+
+                .wwc-player-btn:hover {
+
+                    opacity: 1;
+
+                    transform: scale(1.2);
+
+                }
+
+                .wwc-player-btn.skin-btn { color: #a0d0ff; }
+
+                .wwc-player-btn.reset-btn { color: #a0ffa0; }
+
+                .wwc-player-btn.name-btn { color: #ffa0a0; }
+
+                
+
+                /* تأثيرات النوافذ والحركة */
+
+                .wwc-custom-prompt-overlay {
+
+                    animation: wwc-pulse 3s infinite;
+
+                }
+
+                @keyframes wwc-pulse {
+
+                    0% { background-color: rgba(0,0,0,0); }
+
+                    50% { background-color: rgba(0,0,0,0.05); }
+
+                    100% { background-color: rgba(0,0,0,0); }
+
+                }
+
+                @keyframes wwc-float {
+
+                    0% { transform: translateY(0px); }
+
+                    50% { transform: translateY(-8px); }
+
+                    100% { transform: translateY(0px); }
+
+                }
+
+                
+
+               /* زر التبديل */
+
+                #wwc-toggle-button {
+
+                    position: fixed;
+
+                    top: 140px;
+
+                    right: 10px;
+
+                    width: 30px;
+
+                    height: 30px;
+
+                    border-radius: 50%;
+
+                    background-color: rgba(20, 120, 220, 0.8);
+
+                    color: white;
+
+                    display: none;
+
+                    justify-content: center;
+
+                    align-items: center;
+
+                    cursor: pointer;
+
+                    z-index: 999999;
+
+                    font-size: 16px;
+
+                    box-shadow: 0 0 10px rgba(0, 100, 255, 0.5);
+
+                    border: 2px solid rgba(255, 255, 255, 0.3);
+
+                    transition: all 0.3s ease;
+
+                }
+
+                #wwc-toggle-button:hover {
+
+                    transform: scale(1.1);
+
+                    background-color: rgba(30, 150, 255, 0.9);
+
+                }
+
+            `);
+
+            
+
+            // إضافة زر تبديل الظهور (مخفي في البداية)
+
+            const toggleButton = $("<div>")
+
+                .attr("id", "wwc-toggle-button")
+
+                .html("👁️")
+
+                .attr("title", "إظهار/إخفاء قائمة اللاعبين (اضغط M)")
+
+                .click(function() {
+
+                    togglePlayerList();
+
+                });
+
+            
+
+            $("head").append(style);
+
+            $("body").append(toggleButton);
+
+        }
+
+    }
+
+    
+
+    // =============== وظائف تحديث قائمة اللاعبين ===============
+
+    
+
+    // تبديل إظهار/إخفاء قائمة اللاعبين
+
+    function togglePlayerList() {
+
+        isPlayerListVisible = !isPlayerListVisible;
+
+        
+
+        if (isPlayerListVisible) {
+
+            // حفظ حالة اللاعب الأصلية قبل فتح القائمة
+
+            saveOriginalPlayerState();
+
+            
+
+            $("#wwc-player-names").fadeIn(300);
+
+            updatePlayerList();
+
+            $("#wwc-toggle-button").css("background-color", "rgba(30, 150, 255, 0.9)");
+
+        } else {
+
+            $("#wwc-player-names").fadeOut(300);
+
+            $("#wwc-toggle-button").css("background-color", "rgba(20, 120, 220, 0.8)");
+
+            
+
+            // إعادة تعيين متغير التحويم عند إغلاق القائمة
+
+            isHoveringList = false;
+
+        }
+
+        
+
+        // تحديث حالة التأثيرات
+
+        setTimeout(function() {
+
+            updateEffectsState();
+
+        }, 50);
+
+    }
+
+
+
+    
+
+    // إظهار زر التبديل
+
+    function showToggleButton() {
+
+        if (!isToggleButtonVisible) {
+
+            isToggleButtonVisible = true;
+
+            $("#wwc-toggle-button").css('display', 'flex').fadeIn(300);
+
+        }
+
+    }
+
+    
+
+    // إخفاء زر التبديل
+
+    function hideToggleButton() {
+
+        if (isToggleButtonVisible) {
+
+            isToggleButtonVisible = false;
+
+            $("#wwc-toggle-button").fadeOut(300);
+
+            
+
+            // إخفاء القائمة أيضاً إذا كانت مفتوحة
+
+            if (isPlayerListVisible) {
+
+                isPlayerListVisible = false;
+
+                $("#wwc-player-names").fadeOut(300);
+
+                isHoveringList = false;
+
+                
+
+                // تحديث حالة التأثيرات
+
+                setTimeout(function() {
+
+                    updateEffectsState();
+
+                }, 50);
+
+            }
+
+        }
+
+    }
+
+    
+
+    // تحديث قائمة اللاعبين
+
+    function updatePlayerList() {
+
+        // إذا كان التحديث متوقفاً، لا تقم بالتحديث
+
+        if (pauseUpdates) return;
+
+        
+
+        const playerContainer = $("#wwc-player-names");
+
+        playerContainer.empty();
+
+        
+
+        // التحقق من حالة اللعب
+
+        if (!isInGameState()) {
+
+            playerContainer.hide();
+
+            isPlayerListVisible = false;
+
+            isHoveringList = false;
+
+            
+
+            // تحديث حالة التأثيرات
+
+            updateEffectsState();
+
+            return;
+
+        }
+
+        
+
+        // إظهار القائمة فقط إذا كانت الحالة "مرئية"
+
+        if (isPlayerListVisible) {
+
+            playerContainer.show();
+
+        } else {
+
+            playerContainer.hide();
+
+            return;
+
+        }
+
+        
+
+        // الحصول على اللاعب الحالي
+
+        const currentPlayer = getCurrentPlayer();
+
+        if (!currentPlayer || !currentPlayer.Eh) return;
+
+        
+
+        const currentPlayerId = currentPlayer.Eh.ae;
+
+        const currentPos = currentPlayer.fh();
+
+        
+
+        // إضافة العنوان
+
+        playerContainer.append(
+
+            $("<div>").css({
+
+                color: 'white',
+
+                textAlign: 'center',
+
+                padding: '2px',
+
+                marginBottom: '3px',
+
+                borderBottom: '1px solid rgba(255,255,255,0.3)',
+
+                fontSize: '12px',
+
+                fontWeight: 'bold'
+
+            }).text("قائمة اللاعبين القريبين")
+
+        );
+
+        
+
+        // جمع وترتيب اللاعبين حسب القرب
+
+        const nearbyPlayers = [];
+
+        
+
+        // مرر على جميع اللاعبين في اللعبة
+
+        for (const playerId in window._wwc._anApp.dh.Fh) {
+
+            const player = window._wwc._anApp.dh.Fh[playerId];
+
+            
+
+            // تجاهل اللاعب الحالي
+
+            if (playerId == currentPlayerId) continue;
+
+            
+
+            // تأكد من أن اللاعب موجود ونشط
+
+            if (!player || !player.Eh || !player.xi) continue;
+
+            
+
+            // حساب المسافة بين اللاعبين
+
+            const playerPos = player.fh();
+
+            const distance = Math.sqrt(
+
+                Math.pow(playerPos.x - currentPos.x, 2) + 
+
+                Math.pow(playerPos.y - currentPos.y, 2)
+
+            );
+
+            
+
+            // إضافة اللاعب وتفاصيله إلى القائمة إذا كان ضمن نطاق محدد
+
+            if (distance <= 1000) {
+
+                nearbyPlayers.push({
+
+                    id: playerId,
+
+                    player: player,
+
+                    distance: distance,
+
+                    name: player.Eh.ma || "لاعب مجهول",
+
+                    skin: player.Eh.Hh
+
+                });
+
+            }
+
+        }
+
+        
+
+        // ترتيب اللاعبين حسب القرب
+
+        nearbyPlayers.sort((a, b) => a.distance - b.distance);
+
+        
+
+        // قصر القائمة على عدد محدد من اللاعبين
+
+        const limitedPlayers = nearbyPlayers.slice(0, 8);
+
+        
+
+        // عرض كل لاعب في القائمة
+
+        limitedPlayers.forEach((playerData) => {
+
+            // إنشاء صف للاعب
+
+            const playerRow = $("<div>").addClass("wwc-player-row");
+
+            
+
+            // اسم اللاعب
+
+            const displayName = truncateName(playerData.name);
+
+            const playerName = $("<span>")
+
+                .addClass("wwc-player-name")
+
+                .text(displayName)
+
+                .on('click', function(e) {
+
+                    e.preventDefault();
+
+                    e.stopPropagation();
+
+                    
+
+                    // تغيير السكن عند النقر
+
+                    cycleSkin(playerData.id);
+
+                    
+
+                    // إضافة تأثير
+
+                    $(this).addClass('skin-changed');
+
+                    
+
+                    return false;
+
+                })
+
+                .on('contextmenu', function(e) {
+
+                    e.preventDefault();
+
+                    e.stopPropagation();
+
+                    
+
+                    // تغيير اسم اللاعب بين الخيارات المحددة
+
+                    const newName = cycleNameOption(playerData.id);
+
+                    
+
+                    // تحديث النص المعروض
+
+                    $(this).text(truncateName(newName));
+
+                    $(this).addClass('name-changed');
+
+                    
+
+                    return false;
+
+                });
+
+            
+
+            // تطبيق تأثيرات إضافية على الاسم إذا كان السكن قد تغير - دعم المعرفات المختلطة
+
+            if (playerChanges[playerData.id] && 
+
+                String(playerChanges[playerData.id].originalSkin) !== String(playerData.player.Eh.Hh)) {
+
+                playerName.addClass('skin-changed');
+
+            }
+
+            
+
+            // أزرار التحكم
+
+            const playerControls = $("<div>").addClass("wwc-player-controls");
+
+            
+
+            // زر تغيير الاسم
+
+            const nameBtn = $("<div>")
+
+                .addClass("wwc-player-btn name-btn")
+
+                .html("📝")
+
+                .attr('title', 'تغيير الاسم')
+
+                .click((e) => {
+
+                    e.preventDefault();
+
+                    e.stopPropagation();
+
+                    
+
+                    // فتح نافذة تغيير الاسم مع تفعيل التأثيرات
+
+                    createCustomPrompt("أدخل الاسم المخصص", playerData.player.Eh.ma, function(customName) {
+
+                        if (customName) {
+
+                            setCustomName(playerData.id, customName);
+
+                            playerName.text(truncateName(customName));
+
+                            playerName.addClass('name-changed');
+
+                        }
+
+                    });
+
+                    
+
+                    return false;
+
+                });
+
+            
+
+            // زر تغيير السكن
+
+            const skinBtn = $("<div>")
+
+                .addClass("wwc-player-btn skin-btn")
+
+                .html("🎨")
+
+                .attr('title', 'تغيير السكن')
+
+                .click((e) => {
+
+                    e.preventDefault();
+
+                    e.stopPropagation();
+
+                    
+
+                    // دورة السكن بسرعة
+
+                    cycleSkin(playerData.id);
+
+                    playerName.addClass('skin-changed');
+
+                    
+
+                    return false;
+
+                })
+
+                .on('contextmenu', function(e) {
+
+                    e.preventDefault();
+
+                    e.stopPropagation();
+
+                    
+
+                    // فتح نافذة لإدخال رقم السكن مع تفعيل التأثيرات
+
+                    createCustomPrompt("أدخل رقم السكن (Skin ID)", playerData.player.Eh.Hh, function(skinId) {
+
+                        if (skinId) {
+
+                            setSkinById(playerData.id, skinId);
+
+                            playerName.addClass('skin-changed');
+
+                        }
+
+                    });
+
+                    
+
+                    return false;
+
+                });
+
+            
+
+            // زر إعادة الإعدادات الأصلية
+
+            const resetBtn = $("<div>")
+
+                .addClass("wwc-player-btn reset-btn")
+
+                .html("↩️")
+
+                .attr('title', 'إعادة الإعدادات الأصلية')
+
+                .click((e) => {
+
+                    e.preventDefault();
+
+                    e.stopPropagation();
+
+                    
+
+                    // إعادة السكن والاسم الأصلي
+
+                    resetAllSettings(playerData.id);
+
+                    
+
+                    // تحديث النص المعروض
+
+                    if (playerChanges[playerData.id] && playerChanges[playerData.id].originalName) {
+
+                        playerName.text(truncateName(playerChanges[playerData.id].originalName));
+
+                    }
+
+                    
+
+                    // إزالة التأثيرات
+
+                    playerName.removeClass('skin-changed name-changed');
+
+                    
+
+                    return false;
+
+                });
+
+            
+
+            // تطبيق تأثيرات إضافية على الاسم إذا كان قد تغير
+
+            if (playerChanges[playerData.id] && 
+
+                playerChanges[playerData.id].originalName != playerData.player.Eh.ma) {
+
+                playerName.addClass('name-changed');
+
+            }
+
+            
+
+            // تجميع أزرار التحكم
+
+            playerControls.append(nameBtn, skinBtn, resetBtn);
+
+            
+
+            // تجميع عناصر الصف
+
+            playerRow.append(playerName, playerControls);
+
+            
+
+            // إضافة الصف إلى الحاوية
+
+            playerContainer.append(playerRow);
+
+        });
+
+        
+
+        // إضافة رسالة إذا لم يتم العثور على لاعبين
+
+        if (limitedPlayers.length === 0) {
+
+            playerContainer.append(
+
+                $("<div>").css({
+
+                    color: 'white',
+
+                    textAlign: 'center',
+
+                    padding: '8px',
+
+                    backgroundColor: 'rgba(0,0,0,0.4)',
+
+                    borderRadius: '5px',
+
+                    margin: '3px 0'
+
+                }).text("لا يوجد لاعبين قريبين")
+
+            );
+
+        }
+
+        
+
+        // إضافة تعليمات استخدام
+
+        playerContainer.append(
+
+            $("<div>").css({
+
+                color: 'rgba(255,255,255,0.7)',
+
+                fontSize: '9px',
+
+                textAlign: 'center',
+
+                padding: '3px',
+
+                marginTop: '3px',
+
+                borderTop: '1px solid rgba(255,255,255,0.3)'
+
+            }).html("🎨: تغيير السكن | 📝: تغيير الاسم<br>زر يمين على الاسم: تبديل أسماء جاهزة")
+
+        );
+
+    }
+
+    
+
+    // =============== إعداد التتبع والمراقبة ===============
+
+    
+
+    // إعداد تتبع اللاعبين
+
+    function setupPlayerTracking() {
+
+        const checkInterval = 500; // فحص كل نصف ثانية
+
+        
+
+        let trackingInterval = setInterval(function() {
+
+            // التحقق من حالة اللعب
+
+            const isInGame = isInGameState();
+
+            
+
+            if (isInGame) {
+
+                // تحديث قائمة اللاعبين إذا كانت مرئية
+
+                if (isPlayerListVisible) {
+
+                    updatePlayerList();
+
+                }
+
+                
+
+                // إظهار زر التبديل فقط إذا كان مفعلاً
+
+                if (isToggleButtonVisible) {
+
+                    $("#wwc-toggle-button").show();
+
+                }
+
+            } else {
+
+                // إخفاء القائمة وإيقاف التأثيرات عند الخروج من اللعبة
+
+                $("#wwc-player-names").hide();
+
+                $("#wwc-toggle-button").hide();
+
+                isPlayerListVisible = false;
+
+                isHoveringList = false;
+
+                
+
+                // تحديث حالة التأثيرات
+
+                updateEffectsState();
+
+            }
+
+        }, checkInterval);
+
+        
+
+        // إيقاف التتبع عند مغادرة الصفحة
+
+        $(window).on('beforeunload', function() {
+
+            forceStopEffects();
+
+            clearInterval(trackingInterval);
+
+        });
+
+        
+
+        // إيقاف التأثيرات عند تبديل التبويب
+
+        document.addEventListener('visibilitychange', function() {
+
+            if (document.hidden) {
+
+                isHoveringList = false;
+
+                
+
+                // تحديث حالة التأثيرات
+
+                updateEffectsState();
+
+            }
+
+        });
+
+    }
+
+    
+
+    // =============== تهيئة السكريبت ===============
+
+    
+
+    // وظيفة البداية
+
+    function initialize() {
+
+        // التحقق من وجود jQuery
+
+        if (typeof $ === 'undefined') {
+
+            console.log("في انتظار تحميل jQuery...");
+
+            setTimeout(initialize, 1000);
+
+            return;
+
+        }
+
+        
+
+        // التحقق من وجود كائنات اللعبة
+
+        if (!window._wwc || !window._wwc._anApp) {
+
+            console.log("في انتظار تحميل كائنات اللعبة...");
+
+            setTimeout(initialize, 1000);
+
+            return;
+
+        }
+
+        
+
+        console.log("بدء تهيئة مغير الجلود مع تأثير الطيران فقط...");
+
+        
+
+        // إنشاء واجهة المستخدم
+
+        createUI();
+
+        
+
+        // إعداد تتبع اللاعبين
+
+        setupPlayerTracking();
+
+        
+
+        // معالجة مفتاح M لإظهار/إخفاء القائمة والزر
+
+        let lastKeyPress = 0;
+
+        $(document).on('keydown', function(e) {
+
+            // استخدام keyCode للمفتاح M (77) لدعم جميع اللغات
+
+            if (e.keyCode === 77) { // مفتاح M
+
+                // منع الضغطات المتكررة السريعة
+
+                const now = Date.now();
+
+                if (now - lastKeyPress < 300) {
+
+                    return;
+
+                }
+
+                lastKeyPress = now;
+
+                
+
+                // تبديل حالة ظهور الزر
+
+                if (!isToggleButtonVisible) {
+
+                    // إظهار الزر
+
+                    showToggleButton();
+
+                } else {
+
+                    // إخفاء الزر والقائمة
+
+                    hideToggleButton();
+
+                }
+
+            }
+
+            
+
+            // إيقاف التأثيرات بمفتاح Escape
+
+            if (e.key === 'Escape') {
+
+                forceStopEffects();
+
+                isHoveringList = false;
+
+            }
+
+        });
+
+        
+
+        // رصد كل الأحداث المرتبطة بحقول الإدخال
+
+        $(document).on('focus', 'input, textarea', function() {
+
+            setInputState(true);
+
+        }).on('blur', 'input, textarea', function() {
+
+            // تأخير إلغاء تنشيط الإدخال لتجنب المشاكل عند النقر على الأزرار
+
+            setTimeout(function() {
+
+                if (!modalOpen) {
+
+                    setInputState(false);
+
+                }
+
+            }, 100);
+
+        });
+
+        
+
+        // إضافة مراقب للحركة على مستوى المستند لرصد تحركات الماوس
+
+        $(document).on('mousemove', function(e) {
+
+            // رصد حركة الماوس للتعامل مع حالة اللاعب
+
+            if (isInGameState() && isPlayerListVisible && !modalOpen) {
+
+                const playerListElement = $("#wwc-player-names");
+
+                if (playerListElement.length) {
+
+                    const rect = playerListElement[0].getBoundingClientRect();
+
+                    
+
+                    // تحقق إذا كان المؤشر فوق القائمة
+
+                    const isMouseOverList = (
+
+                        e.clientX >= rect.left &&
+
+                        e.clientX <= rect.right &&
+
+                        e.clientY >= rect.top &&
+
+                        e.clientY <= rect.bottom
+
+                    );
+
+                    
+
+                    // تحديث متغير التحويم
+
+                    if (isMouseOverList !== isHoveringList) {
+
+                        isHoveringList = isMouseOverList;
+
+                        
+
+                        // تحديث حالة التأثيرات
+
+                        updateEffectsState();
+
+                    }
+
+                }
+
+            }
+
+        });
+
+        
+
+        // تسجيل العناصر الأصلية لتشغيل خاصية الماوس
+
+        document.mouseCaptureList = [];
+
+        
+
+        console.log("اكتملت تهيئة مغير الجلود بنجاح مع تأثير الطيران فقط!");
+
+    }
+
+    
+
+    // بدء التهيئة عند اكتمال تحميل الصفحة
+
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+
+        setTimeout(initialize, 3000);
+
+    } else {
+
+        window.addEventListener('load', function() {
+
+            setTimeout(initialize, 3000);
+
+        });
+
+    }
+
+    
+
+    // التأكد من إيقاف التأثيرات عند إغلاق الصفحة
+
+    window.addEventListener('unload', function() {
+
+        forceStopEffects();
+
+    });
+
+    
+
+})();
+
+
+
     _0x5bde = function() {
         return _0x2c4b2f;
     }
@@ -10330,240 +13036,6 @@ function f(_0x4670e3) {
     });
 }());
 
-// ========== SNAKE BODY HORIZONTAL LINES EFFECT ==========
-(function() {
-  let snakeLinesEnabled = false;
-  let linesContainer = null;
-  let linesGraphics = null;
-
-  // Initialize the lines graphics container
-  function initLinesGraphics() {
-    if (linesContainer) return true;
-
-    try {
-      // Find the render container - try multiple paths
-      let renderContainer = null;
-      
-      if (window._wwc && window._wwc._anApp && window._wwc._anApp.og && 
-          window._wwc._anApp.og.af && window._wwc._anApp.og.af.ng && 
-          window._wwc._anApp.og.af.ng.Qg) {
-        renderContainer = window._wwc._anApp.og.af.ng.Qg; // Snake container
-      } else if (window._1f8817 && window._1f8817.og && window._1f8817.og.af && 
-                 window._1f8817.og.af.ng && window._1f8817.og.af.ng.Qg) {
-        renderContainer = window._1f8817.og.af.ng.Qg;
-      }
-      
-      if (!renderContainer) {
-        console.log('Render container not found');
-        return false;
-      }
-
-      // Create container for lines
-      linesContainer = new PIXI.Container();
-      linesGraphics = new PIXI.Graphics();
-      linesContainer.addChild(linesGraphics);
-      linesContainer.zIndex = 9999; // Render on top
-      renderContainer.addChild(linesContainer);
-      
-      console.log('Lines graphics initialized successfully');
-      return true;
-    } catch (e) {
-      console.error('Failed to init lines graphics:', e);
-      return false;
-    }
-  }
-
-  // Draw horizontal lines on snake body
-  function drawSnakeLines() {
-    if (!snakeLinesEnabled || !linesGraphics) return;
-
-    try {
-      linesGraphics.clear();
-
-      // Get the game instance
-      const gameInstance = window._wwc?._anApp?.dh || window._1f8817?.dh;
-      if (!gameInstance || !gameInstance.Fh) return;
-
-      // Set line style
-      linesGraphics.lineStyle(0.2, 0xFFFFFF, 0.9); // White lines, thicker and more opaque
-
-      // Iterate through all players/snakes
-      for (const playerId in gameInstance.Fh) {
-        const worm = gameInstance.Fh[playerId];
-        if (!worm || !worm.xi || !worm.Eh) continue;
-        if (!worm.wi) continue; // Skip dead worms
-
-        // Get snake body positions from _c array (interpolated positions)
-        const positions = worm._c;
-        const segmentCount = worm.ad; // actual segment count
-        const radius = worm.$c || 10; // segment radius
-
-        if (!positions || segmentCount < 2) continue;
-
-        // Draw lines on each body segment
-        const spacing = 3; // Draw a line every 3 segments
-        
-        for (let i = 0; i < segmentCount - 1; i += spacing) {
-          const x1 = positions[i * 2];
-          const y1 = positions[i * 2 + 1];
-          const x2 = positions[(i + 1) * 2];
-          const y2 = positions[(i + 1) * 2 + 1];
-
-          // Calculate perpendicular direction
-          const dx = x2 - x1;
-          const dy = y2 - y1;
-          const length = Math.sqrt(dx * dx + dy * dy);
-          
-          if (length === 0) continue;
-
-          // Normalized perpendicular vector
-          const perpX = -dy / length;
-          const perpY = dx / length;
-
-          // Draw horizontal line across the segment
-          const lineLength = radius * 2; // Line extends across body width
-          const startX = x1 + perpX * lineLength;
-          const startY = y1 + perpY * lineLength;
-          const endX = x1 - perpX * lineLength;
-          const endY = y1 - perpY * lineLength;
-
-          linesGraphics.moveTo(startX, startY);
-          linesGraphics.lineTo(endX, endY);
-        }
-      }
-    } catch (e) {
-      console.error('Error drawing snake lines:', e);
-    }
-  }
-
-  // Toggle lines on/off
-  function toggleSnakeLines() {
-    snakeLinesEnabled = !snakeLinesEnabled;
-    
-    if (snakeLinesEnabled) {
-      if (!initLinesGraphics()) {
-        console.log('❌ Failed to initialize lines graphics');
-        snakeLinesEnabled = false;
-        return;
-      }
-      console.log('✅ Snake body lines ENABLED');
-      linesContainer.visible = true;
-    } else {
-      console.log('❌ Snake body lines DISABLED');
-      if (linesContainer) {
-        linesContainer.visible = false;
-      }
-      if (linesGraphics) {
-        linesGraphics.clear();
-      }
-    }
-  }
-
-  // Render loop - update lines every frame
-  function updateLines() {
-    if (snakeLinesEnabled) {
-      drawSnakeLines();
-    }
-    requestAnimationFrame(updateLines);
-  }
-
-  // Initialize the system
-  function init() {
-    if (typeof PIXI === 'undefined') {
-      console.log('Waiting for PIXI...');
-      setTimeout(init, 1000);
-      return;
-    }
-    
-    if (!window._wwc && !window._1f8817) {
-      console.log('Waiting for game to load...');
-      setTimeout(init, 1000);
-      return;
-    }
-    
-    updateLines();
-    console.log('🐍 Snake lines system initialized. Press N to toggle.');
-  }
-
-  // Start initialization
-  setTimeout(init, 3000);
-
-  // Keyboard handler for 'N' key
-  document.addEventListener('keydown', function(e) {
-    // Check for 'N' key (keyCode 78)
-    if (e.keyCode === 78 || e.key === 'm' || e.key === 'M') {
-      // Ignore if typing in input fields
-      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
-        return;
-      }
-      
-      e.preventDefault();
-      toggleSnakeLines();
-    }
-  });
-
-  // Expose toggle function globally (optional)
-  window.toggleSnakeLines = toggleSnakeLines;
-})();
-
-// Fix settings button click handler
-document.addEventListener('DOMContentLoaded', function() {
-  // Periodic memory cleanup every 30 seconds
-  setInterval(cleanupBackgroundMemory, 30000);
-  
-  // Settings panel interactive features
-  setTimeout(() => {
-    const copyBtn = document.querySelector('#mm-wwc-close').parentElement.querySelector('button[onclick*="clipboard"]');
-    const idInput = document.getElementById('wormate_id');
-    const clearBtn = document.querySelector('button[onclick*="fileSkin.value"]');
-    const fileInput = document.getElementById('fileSkin');
-    
-    // Copy button feedback
-    if (copyBtn && idInput) {
-      copyBtn.addEventListener('click', function() {
-        const originalText = this.textContent;
-        this.textContent = 'Copied!';
-        this.style.backgroundColor = '#4CAF50';
-        this.style.boxShadow = '0 0 20px #4f4';
-        
-        setTimeout(() => {
-          this.textContent = originalText;
-          this.style.backgroundColor = '#910e91';
-          this.style.boxShadow = '0 0 10px #f0f';
-        }, 2000);
-      });
-    }
-    
-    // File input change handler
-    if (fileInput) {
-      fileInput.addEventListener('change', function() {
-        const file = this.files[0];
-        if (file) {
-          console.log('Selected file:', file.name);
-        }
-      });
-    }
-    
-    // Pulsing glow animation for copy button
-    let glowStrength = 10;
-    let growing = true;
-    
-    setInterval(() => {
-      if (copyBtn && copyBtn.style.backgroundColor === 'rgb(145, 14, 145)') {
-        if (growing) {
-          glowStrength += 0.5;
-          if (glowStrength >= 20) growing = false;
-        } else {
-          glowStrength -= 0.5;
-          if (glowStrength <= 10) growing = true;
-        }
-        copyBtn.style.boxShadow = `0 0 ${glowStrength}px #f0f`;
-      }
-    }, 100);
-  }, 1000);
-});
-
-c
 
 
 
